@@ -1,0 +1,142 @@
+﻿@page "/CarInfo"
+@inject IController controller
+@inject IModel model
+@inject IJSRuntime jsRuntime
+@inject NavigationManager NavigationManager
+
+
+
+<div class="display">
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 15%; margin-right: 15%; font-size: 50px">Registered cars for id: @model.IdCardNumber</h2>
+
+    @if (IsLoading)
+    {
+        <div style="display: grid; justify-content: center; columns: 2; margin-top: 3%; margin-bottom: 2%">
+            <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center;">
+                <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+            </div>
+        </div>
+    }
+    else
+    {
+
+        @if (model.ExtendedCarList != null)
+        {
+            <div style="display: flex; justify-content: center; columns: 2; margin-top: 3%; margin-bottom: 2%">
+
+                @foreach (ExtendedCarDto carDto in model.ExtendedCarList)
+                {
+                    @if (model.SelectedCar == carDto)
+                    {
+                        <button class="btn4" @onclick="() => SelectCar(carDto)" style="margin-left: 10px; margin-right: 10px"> Brand: @carDto.brand <br> Model: @carDto.model </button>
+                    }
+                    else
+                    {
+                        <button class="btn3" @onclick="() => SelectCar(carDto)" style="margin-left: 10px; margin-right: 10px"> Brand: @carDto.brand <br> Model: @carDto.model </button>
+                    }
+
+                }
+
+            </div>
+        }
+
+    }
+
+    <div style="columns: 1;  justify-content: center;  align-items: center; flex-direction: column ; display: flex ;">
+
+        @if (model.SelectedCar.vin != null)
+        {
+            <RadzenButton Disabled="false" Text="Load more info about car" class="btn1" Click="LoadCarInfo" Style="width: 30%" />
+        }
+        else
+        {
+            <RadzenButton Disabled="false" Text="Load more info about car" class="btn2" Style="width: 30%" />
+        }
+
+        @if (model.SelectedCar.vin != null)
+        {
+            <RadzenButton Disabled="false" Text="Request new service" class="btn1" Click="NewService" Style="width: 30%" />
+        }
+        else
+        {
+            <RadzenButton Disabled="false" Text="Request new service" class="btn2" Style="width: 30%" />
+        }
+
+        @if (model.IdCardNumber != null)
+        {
+            <RadzenButton Disabled="false" Icon="directions_car" Text="Add new car" class="btn1" Click="AddCar" Style="width: 30%" />
+        }
+        else
+        {
+            <RadzenButton Disabled="false" Text="Add new car" class="btn2" Style="width: 30%" />
+        }
+
+    </div>
+</div>
+
+
+
+
+@code {
+    private bool IsLoading { get; set; }
+
+    private async void NewService()
+    {
+        await SaveData();
+        NavigationManager.NavigateTo("/ChooseServiceType");
+    }
+
+    private void AddCar()
+    {
+        NavigationManager.NavigateTo("/AddCar");
+    }
+
+    private void SelectCar(ExtendedCarDto carDto)
+    {
+        model.SelectedCar = carDto;
+    }
+
+    private async void LoadCarInfo()
+    {
+        await SaveData();
+        NavigationManager.NavigateTo("/CarInfoDetail");
+    }
+
+    private async Task GetDataFromLocalStorage()
+    {
+        model.IdCardNumber = await jsRuntime.InvokeAsync<string>("sessionStorage.getItem", "idCardNumber");
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        IsLoading = true;
+        model.SelectedCar = new ExtendedCarDto();
+        model.LoggedClient = new ExtendedClientDto();
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await GetDataFromLocalStorage();
+            await controller.ShowPersonalDataAsync();
+            await controller.ShowCarListAsync();
+            await SaveData();
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+
+
+    private async Task SaveDataToLocalStorage(string data)
+    {
+        await jsRuntime.InvokeVoidAsync("sessionStorage.setItem", "selectedCar", data);
+    }
+
+    private async Task SaveData()
+    {
+        await SaveDataToLocalStorage(model.SelectedCar.vin);
+    }
+
+
+}

@@ -1,0 +1,842 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicApplication.Model\\Ssjw.EAutoService.MechanicApplication.Model.csproj": {}
+  },
+  "projects": {
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj",
+        "projectName": "Ssjw.EAutoService.CarPartsDataUSvc.RestClient",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj",
+        "projectName": "Ssjw.EAutoService.CarsDataUSvc.RestClient",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj",
+        "projectName": "Ssjw.EAutoService.ClientsDataUSvc.RESTClient",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj",
+        "projectName": "Ssjw.EAutoService.EmployeesDataUSvc.RestClient",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicApplication.Model\\Ssjw.EAutoService.MechanicApplication.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicApplication.Model\\Ssjw.EAutoService.MechanicApplication.Model.csproj",
+        "projectName": "Ssjw.EAutoService.MechanicApplication.Model",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicApplication.Model\\Ssjw.EAutoService.MechanicApplication.Model.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicApplication.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicApplication.Utilities\\Ssjw.EAutoService.MechanicApplication.Utilities.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicApplication.Utilities\\Ssjw.EAutoService.MechanicApplication.Utilities.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestClient\\Ssjw.EAutoService.MechanicAppUSvc.RestClient.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestClient\\Ssjw.EAutoService.MechanicAppUSvc.RestClient.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestModel\\Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestModel\\Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicApplication.Utilities\\Ssjw.EAutoService.MechanicApplication.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicApplication.Utilities\\Ssjw.EAutoService.MechanicApplication.Utilities.csproj",
+        "projectName": "Ssjw.EAutoService.MechanicApplication.Utilities",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicApplication.Utilities\\Ssjw.EAutoService.MechanicApplication.Utilities.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicApplication.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestClient\\Ssjw.EAutoService.MechanicAppUSvc.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestClient\\Ssjw.EAutoService.MechanicAppUSvc.RestClient.csproj",
+        "projectName": "Ssjw.EAutoService.MechanicAppUSvc.RestClient",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestClient\\Ssjw.EAutoService.MechanicAppUSvc.RestClient.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestModel\\Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestModel\\Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestModel\\Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestModel\\Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestModel\\Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.MechanicAppUSvc.RestModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj",
+        "projectName": "Ssjw.EAutoService.ServicesDataUSvc.RestClient",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\Nowy folder\\ssjw.eautoservice.mechanicapplication\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

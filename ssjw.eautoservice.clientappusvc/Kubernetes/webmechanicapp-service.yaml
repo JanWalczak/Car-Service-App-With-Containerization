@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  annotations:
+    kompose.cmd: kompose -f docker-compose.yaml convert
+    kompose.version: 1.28.0 (c4137012e)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: webmechanicapp
+  name: webmechanicapp
+spec:
+  ports:
+    - name: "4500"
+      port: 80
+      targetPort: 80
+  selector:
+    io.kompose.service: webmechanicapp
+status:
+  loadBalancer: {}

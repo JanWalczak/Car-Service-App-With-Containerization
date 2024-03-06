@@ -1,0 +1,96 @@
+﻿@page "/CarHistory"
+@inject IController controller
+@inject IModel model
+@inject IJSRuntime jsRuntime
+@inject NavigationManager NavigationManager
+
+
+<div style="display: flex; column-count: 2; justify-content: space-evenly; margin-top: 3%;">
+    <div>
+
+        <h5 class="text-background" style="text-align:center; font-size: 30px"> List of car's: @model.SelectedCar.vin  inspections</h5>
+
+        @if (model.InspectionsList != null)
+        {
+            <div style="columns: 1;  justify-content: center;  align-items: center; flex-direction: column ; display: flex ;">
+
+                @foreach (ExtendedInspectionDto inspectionDto in model.InspectionsList)
+                {
+                    <p style="font-size: 20px">Price: @inspectionDto.price <br> Date of Service: @inspectionDto.dateOfService <br> Test passed: @inspectionDto.testsPassed  <br> Exparation date: @inspectionDto.inspectionExpirationDate <br> Comment: @inspectionDto.comment <br></p>
+                }
+
+            </div>
+        }
+
+    </div>
+
+    <div>
+        <h5 class="text-background" style="text-align:center;  font-size: 30px">  List of car's: @model.SelectedCar.vin  repairs </h5>
+
+        @if (model.RepairsList != null)
+        {
+            <div style="columns: 1;  justify-content: center;  align-items: center; flex-direction: column ; display: flex ;">
+
+                @foreach (ExtendedRepairDto repairDto in model.RepairsList)
+                {
+                    <p style="font-size: 20px">Price: @repairDto.price <br> Date of Service: @repairDto.dateOfService <br> Number of repaired parts: @repairDto.repairedParts.Count</p>
+                }
+
+            </div>
+        }
+    </div>
+
+
+
+</div>
+
+<div style="columns: 1;  justify-content: center;  align-items: center; flex-direction: column ; display: flex ;">
+
+    <RadzenButton Disabled="false" Text="Back" class="btn1" Style="font-size: 20px " Click="Back" />
+
+</div>
+
+
+@code {
+
+    private void Back()
+    {
+        NavigationManager.NavigateTo("/CarInfoDetail");
+    }
+
+    private bool IsLoading { get; set; }
+
+    private async Task GetDataFromLocalStorage()
+    {
+        model.IdCardNumber = await jsRuntime.InvokeAsync<string>("sessionStorage.getItem", "idCardNumber");
+        model.SelectedCar.vin = await jsRuntime.InvokeAsync<string>("sessionStorage.getItem", "selectedCar");
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        IsLoading = true;
+        model.SelectedCar = new ExtendedCarDto();
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await GetDataFromLocalStorage();
+            await controller.ShowCarListAsync();
+            foreach (ExtendedCarDto car in model.ExtendedCarList)
+            {
+                if (car.vin == model.SelectedCar.vin)
+                {
+                    model.SelectedCar = car;
+                }
+            }
+            await controller.SearchRepairsAsync();
+            await controller.SearchInspectionsAsync();
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+
+
+}

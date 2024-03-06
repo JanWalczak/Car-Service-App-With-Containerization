@@ -1,0 +1,67 @@
+﻿@page "/CarInfoDetail"
+@inject IController controller
+@inject IModel model
+@inject IJSRuntime jsRuntime
+@inject NavigationManager NavigationManager
+
+<div class="display">
+
+    <h2 class="text-background" style=" width: auto; margin-left: 15%; margin-right: 15%">Your Car: </h2>
+
+    <h5 style="margin: 10px 0px 10px 0px; font-size: 40px"> Vin: @model.SelectedCar.vin </h5>
+    <h5 style="margin: 15px 0px 10px 0px; font-size: 40px"> Model: @model.SelectedCar.model  </h5>
+    <h5 style="margin: 15px 0px 10px 0px; font-size: 40px"> Brand: @model.SelectedCar.brand  </h5>
+    <h5 style="margin: 15px 0px 0px 0px; font-size: 40px"> Production Year: @model.SelectedCar.productionYear.Year  </h5>
+    <div style="columns: 1;  justify-content: center;  align-items: center; flex-direction: column ; display: flex ;">
+        <RadzenButton Disabled="false" Text="Car History" class="btn1" Click="ServiceHistory" />
+        <RadzenButton Disabled="false" Text="Back" class="btn1" Style="font-size: 20px " Click="Back" />
+    </div>
+</div>
+
+
+@code {
+
+    private void Back()
+    {
+        NavigationManager.NavigateTo("/CarInfo");
+    }
+
+    private void ServiceHistory()
+    {
+        NavigationManager.NavigateTo("/CarHistory");
+    }
+
+    private bool IsLoading { get; set; }
+
+    private async Task GetDataFromLocalStorage()
+    {
+        model.IdCardNumber = await jsRuntime.InvokeAsync<string>("sessionStorage.getItem", "idCardNumber");
+        model.SelectedCar.vin = await jsRuntime.InvokeAsync<string>("sessionStorage.getItem", "selectedCar");
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        IsLoading = true;
+        model.SelectedCar = new ExtendedCarDto();
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await GetDataFromLocalStorage();
+            await controller.ShowCarListAsync();
+            foreach (ExtendedCarDto car in model.ExtendedCarList)
+            {
+                if (car.vin == model.SelectedCar.vin)
+                {
+                    model.SelectedCar = car;
+                }
+            }
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+
+
+}

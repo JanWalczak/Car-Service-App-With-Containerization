@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ssjw.EAutoService.WebMechanicApp.BlazorServer
+build_property.RootNamespace = Ssjw.EAutoService.WebMechanicApp.BlazorServer
+build_property.ProjectDir = C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.WebMechanicApp.BlazorServer\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.WebMechanicApp.BlazorServer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/BodyParts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9keVBhcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/CarHistory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FySGlzdG9yeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/CarInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FySW5mby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/CarParts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FyUGFydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/CarsMap.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2Fyc01hcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/ChooseService.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hvb3NlU2VydmljZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/ClientInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50SW5mby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/ClientsList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/FinishInspection.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmluaXNoSW5zcGVjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/FinishRepair.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmluaXNoUmVwYWlyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/Liquids.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlxdWlkcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/MechanicalParts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVjaGFuaWNhbFBhcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/Services.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/SignIn.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbkluLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Shared/EmptyNavbar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcHR5TmF2YmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-uqglrcat37
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-d8n2kicdrg
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Ola/AStudia/UAIM/Nowy folder/ssjw.eautoservice.mechanicapplication/Ssjw.EAutoService.WebMechanicApp.BlazorServer/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U9OM25bRA83NL13OvOq2nqJ5t/J5GJn/2muKkztXe4I=",
+  "Source": "Ssjw.EAutoService.ServicesDataUSvc.RestSvc",
+  "BasePath": "_content/Ssjw.EAutoService.ServicesDataUSvc.RestSvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,68 @@
+﻿@inject IController controller
+@inject IModel model
+
+<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href=""><span class="oi oi-power-standby" aria-hidden="true"></span>Log out</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <ul class="nav flex-column">
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="/home" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+        </li>
+
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="/carparts">
+                <span class="oi oi-magnifying-glass" aria-hidden="true"></span> Car Parts
+            </NavLink>
+        </li>
+
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="/carsmap">
+                <span class="oi oi-menu" aria-hidden="true"></span> Personal Cars
+            </NavLink>
+        </li>
+
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="/services">
+                <span class="oi oi-wrench" aria-hidden="true"></span> Services
+            </NavLink>
+        </li>
+
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="/clientslist">
+                <span class="oi oi-people" aria-hidden="true"></span> Clients
+            </NavLink>
+        </li>
+
+    </ul>
+</div>
+
+
+<head>
+    <style>
+        .sidebar {
+            background: #070b36;
+        }
+    </style>
+</head>
+
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

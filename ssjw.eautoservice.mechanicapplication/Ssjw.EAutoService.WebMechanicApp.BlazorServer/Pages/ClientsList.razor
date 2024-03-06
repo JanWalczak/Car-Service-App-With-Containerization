@@ -1,0 +1,70 @@
+﻿@page "/clientslist"
+@inject IController controller
+@inject IModel model
+
+
+<div class="display">
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 20%; margin-right: 20%; font-size: 30px">Clients</h2>
+
+    @if (IsLoading)
+    {
+        <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center; margin-left: 47.5%">
+            <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+        </div>
+    }
+    else
+    {
+        @if (model.ClientList.Count != 0)
+        {
+            @foreach (ExtendedClientDto clientDto in model.ClientList)
+            {
+                <div class="row">
+                    <div class="display2">
+                        <button class="btn3" @onclick="() => SelectClient(clientDto)">
+                            @clientDto.name @clientDto.surname
+                        </button>
+                    </div>
+                </div>
+            }
+        }
+    }
+</div>
+
+<div class="display">
+    @if (model.SelectedClient == null)
+    {
+        <RadzenButton Disabled="true" class="btn1" Text="View details about client" />
+    }
+    @if (model.SelectedClient != null)
+    {
+        <a href="/clientinfo">
+            <RadzenButton Disabled="false" class="btn1" Text="View details about client" />
+        </a>
+    }
+</div>
+
+
+@code {
+    public async void SelectClient(ExtendedClientDto clientDto)
+    {
+        model.SelectedClient = clientDto;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        model.SelectedClient = null;
+        IsLoading = true;
+    }
+
+    private bool IsLoading { get; set; }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await controller.LoadAllClientsAsync();
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+}

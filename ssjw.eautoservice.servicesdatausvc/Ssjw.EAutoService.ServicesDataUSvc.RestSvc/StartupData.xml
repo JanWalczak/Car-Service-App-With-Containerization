@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sdata:ServicesData xmlns:sdata="http://tempuri.org/XMLServicesDataSchema.xsd" modified="2020-12-01T12:00:00.000">
+	<sdata:InspectionsData>
+		<sdata:Inspection id="i1" dateOfService="2023-04-13T22:14:54.814Z" employeeId="1234" vinNumber="1234567890" price="1200.50" testsPassed="true" inspectionExpirationDate="2028-04-13T22:14:54.815Z" comment="Everything is fine"/>
+		<sdata:Inspection id="i2" dateOfService="2023-04-13T22:14:54.814Z" employeeId="5678" vinNumber="0987654321" price="2300.75" testsPassed="false" inspectionExpirationDate="2023-04-10T22:14:54.814Z" comment="Worn brakes"/>
+	</sdata:InspectionsData>
+	<sdata:RepairsData>
+		<sdata:Repair id="r1" dateOfService="2023-04-13T22:18:19.817Z" employeeId="1234" vinNumber="1234567890" price="5000.0" >
+			<sdata:RepairedParts>
+				<sdata:RepairedPart carPart="m0" causeOfRepair="Broken"/>
+				<sdata:RepairedPart carPart="m1" causeOfRepair="Worn"/>
+			</sdata:RepairedParts>
+		</sdata:Repair>
+		<sdata:Repair id="r2" dateOfService="2023-04-13T22:18:19.817Z" employeeId="5678" vinNumber="0987654321" price="400.0" >
+			<sdata:RepairedParts>
+				<sdata:RepairedPart carPart="l1" causeOfRepair="Finished"/>
+			</sdata:RepairedParts>
+		</sdata:Repair>
+	</sdata:RepairsData>
+</sdata:ServicesData>

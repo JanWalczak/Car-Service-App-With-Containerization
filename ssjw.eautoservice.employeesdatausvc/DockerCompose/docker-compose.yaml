@@ -1,0 +1,54 @@
+---
+version: "3.9"
+
+services:
+  webapplication:
+    image: mikolajuaim/application:ssjw-eautoservice-webmechanicapplication
+    container_name: webapplication
+    ports:
+      - 5000:80
+    
+  webmechanicapp:
+    image: mikolajuaim/application:ssjw-eautoservice-webmechanicapp
+    container_name: webmechanicapp
+    ports:
+      - 4500:80
+  webclientapplication:
+    image: mikolajuaim/application:ssjw-eautoservice-webclientapplication
+    container_name: webclientapplication
+    ports:
+      - 5001:80
+  webclientapp:
+    image: mikolajuaim/application:ssjw-eautoservice-webclientapp
+    container_name: webclientapp
+    ports:
+      - 4501:80     
+  carpartsusvc:
+    image: mikolajuaim/application:ssjw-eautoservice-carpartsusvc
+    container_name: carpartsusvc
+    ports:
+      - 5011:80
+      
+  carsusvc:
+    image: mikolajuaim/application:ssjw-eautoservice-carsusvc
+    container_name: carsusvc
+    ports:
+      - 5013:80
+      
+  clientsusvc:
+    image: mikolajuaim/application:ssjw-eautoservice-clientsusvc
+    container_name: clientsusvc
+    ports:
+      - 5019:80
+      
+  employeesusvc:
+    image: mikolajuaim/application:ssjw-eautoservice-employeesusvc
+    container_name: employeesusvc
+    ports:
+      - 5017:80
+
+  servicesusvc:
+    image: mikolajuaim/application:ssjw-eautoservice-servicesusvc
+    container_name: servicesusvc
+    ports:
+      - 5015:80  

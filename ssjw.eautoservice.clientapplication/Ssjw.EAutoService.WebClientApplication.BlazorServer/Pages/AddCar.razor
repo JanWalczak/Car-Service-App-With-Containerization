@@ -1,0 +1,94 @@
+﻿@page "/AddCar"
+@inject IController controller
+@inject IModel model
+@inject NavigationManager NavigationManager
+@inject IJSRuntime jsRuntime
+
+<div class="display">
+
+    <h2 class="text-background" style="margin-left: 10%; margin-right: 10%">Please enter yours Car Data:</h2>
+
+    <p style="font-size: 30px; margin-top:10px;">Vin</p>
+    <RadzenTextBox Change=@(args => Vin(args)) class="text-iput" Style="width: 40%; margin-top: 0px" />
+
+    <p style="font-size: 30px; margin-top:10px;">Brand</p>
+    <RadzenTextBox Change=@(args => Brand(args)) class="text-iput" Style="width: 40%; margin-top: 0px" />
+
+    <p style="font-size: 30px; margin-top:10px;">Model</p>
+    <RadzenTextBox Change=@(args => Model(args)) class="text-iput" Style="width: 40%; margin-top: 0px" />
+
+    <p style="font-size: 30px; margin-top:10px;">Production Year</p>
+    <RadzenTextBox Change=@(args => DateChanged(args)) class="text-iput" Style="width: 40%; margin-top: 0px" />
+
+    <p style="font-size: 30px; margin-top:10px;">Insurance Number</p>
+    <RadzenTextBox Change=@(args => InsuranceNumber(args)) class="text-iput" Style="width: 40%; margin-top: 0px" />
+
+    <div style="columns: 1;  justify-content: center;  align-items: center; flex-direction: column ; display: flex ;">
+        <RadzenButton Disabled="false" Text="Register new car" class="btn1" Click="RegisterNewCar" />
+
+        <RadzenButton Disabled="false" Text="Back" class="btn1" Style="font-size: 20px !important; padding: 10px 30px !important" Click="Back" />
+    </div>
+</div>
+
+
+@code {
+
+    private bool IsLoading { get; set; }
+
+    private void Back()
+    {
+        NavigationManager.NavigateTo("/CarInfo");
+    }
+
+    private void Vin(string vin)
+    {
+        model.NewCar.vin = vin;
+    }
+
+    private void Brand(string brand)
+    {
+        model.NewCar.brand = brand;
+    }
+
+    private void Model(string carModel)
+    {
+        model.NewCar.model = carModel;
+    }
+
+    public void DateChanged(string year)
+    {
+        model.NewCar.productionYear = new DateTime(int.Parse(year), 1, 1);
+    }
+
+    private void InsuranceNumber(string insuranceNumber)
+    {
+        model.NewCar.insurenceNumber = insuranceNumber;
+    }
+
+    public async void RegisterNewCar()
+    {
+        await controller.RegisterNewCarAsync();
+        NavigationManager.NavigateTo("/Home");
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        IsLoading = true;
+        model.NewCar = new ExtendedCarDto();
+    }
+
+    private async Task GetDataFromLocalStorage()
+    {
+        model.IdCardNumber = await jsRuntime.InvokeAsync<string>("sessionStorage.getItem", "idCardNumber");
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await GetDataFromLocalStorage();
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+}

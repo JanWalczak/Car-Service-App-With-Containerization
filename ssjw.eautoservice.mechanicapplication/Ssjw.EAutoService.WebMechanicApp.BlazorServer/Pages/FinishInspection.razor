@@ -1,0 +1,62 @@
+﻿@page "/finishinspection"
+@inject IController controller
+@inject IModel model
+@inject NavigationManager NavigationManager
+
+
+<h2 class="display" style="align-items: start; justify-content: start; align-content: start; ">
+
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 20%; margin-right: 20%; font-size: 30px">Finish Inspection @model.InspectionId</h2>
+
+    <div class="display" style="align-items: center; justify-content: center; align-content: center">
+
+        <div class="display2">
+            <h4><b>Price:</b></h4>
+            <RadzenNumeric ShowUpDown="false" TValue="double" @bind-Value="@model.Price" class="text-iput" style="width: 200px; font-size: 20px; margin-top: 5px" />
+        </div>
+
+        <div class="display2" style="margin-top: 40px">
+            <h4>
+                <b>Tests Passed:</b>
+                <div class="row">
+                    <div class="display2">
+                        <RadzenRadioButtonList @bind-Value=@model.TestsPassed TValue="bool">
+                            <Items>
+                                <RadzenRadioButtonListItem Text="Passed" Value=true />
+                                <RadzenRadioButtonListItem Text="Failed" Value=false />
+                            </Items>
+                        </RadzenRadioButtonList>
+                    </div>
+                </div>
+            </h4>
+        </div>
+
+        <div class="display2" style="margin-top: 60px">
+            <h4><b>Comment:</b></h4>
+            <input name="comment" class="text-iput" @bind="@model.Comment" style="width: 200px; font-size: 20px; margin-top: 5px" />
+        </div>
+
+        <div class="display2" style="margin-top: 40px">
+            <button name="finishInspection" class="btn5" @onclick="Finish">
+                Finish inspection
+            </button>
+        </div>
+
+    </div>
+</h2>
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        model.Price = 0.0;
+        model.TestsPassed = false;
+        model.Comment = null;
+    }
+
+    public async void Finish()
+    {
+        await controller.FinishInspectionAsync();
+        await controller.LoadPersonalScheduleAsync();
+        NavigationManager.NavigateTo("/services");
+    }
+}

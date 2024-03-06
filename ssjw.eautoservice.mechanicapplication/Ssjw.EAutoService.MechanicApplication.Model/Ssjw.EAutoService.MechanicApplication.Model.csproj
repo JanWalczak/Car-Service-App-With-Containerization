@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ssjw.EAutoService.MechanicApplication.Utilities\Ssjw.EAutoService.MechanicApplication.Utilities.csproj" />
+    <ProjectReference Include="..\Ssjw.EAutoService.MechanicAppUSvc.RestClient\Ssjw.EAutoService.MechanicAppUSvc.RestClient.csproj" />
+    <ProjectReference Include="..\Ssjw.EAutoService.MechanicAppUSvc.RestModel\Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel.csproj" />
+  </ItemGroup>
+
+</Project>

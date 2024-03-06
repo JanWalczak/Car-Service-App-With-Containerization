@@ -1,0 +1,67 @@
+﻿@page "/ChooseServiceDate"
+@inject IController controller
+@inject IModel model
+@inject IJSRuntime jsRuntime
+@inject NavigationManager NavigationManager
+
+
+
+<div class="display">
+    <div>
+        <h1 class="text-background" style="margin-left: 15%; margin-right:15%; margin-top: 2%; margin-bottom:1%">Request new service</h1>
+
+        <h2>Choose service's date</h2>
+
+        <div class="rz-text-align-center">
+            <RadzenDatePicker @bind-Value=@value Inline="true" Change="() => ServiceDateChanged(value)" />
+
+            <div style="columns: 1;  justify-content: center;  align-items: center; flex-direction: column ; display: flex ;">
+
+
+                <RadzenButton Disabled="false" Text="Next" class="btn1" Click="Next" />
+
+
+                <RadzenButton Disabled="false" Text="Back" class="btn1" Style="font-size: 20px !important; padding: 10px 30px !important" Click="Back" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@code {
+
+    private void Back()
+    {
+        NavigationManager.NavigateTo("/ChooseServiceType");
+    }
+
+    private async Task SaveDataToLocalStorage(DateTime data)
+    {
+        await jsRuntime.InvokeVoidAsync("sessionStorage.setItem", "selectedDate", data);
+    }
+
+
+    private async Task SaveData()
+    {
+        await SaveDataToLocalStorage(model.SelectedDate);
+    }
+
+
+    private async void Next()
+    {
+        await SaveData();
+        NavigationManager.NavigateTo("/ChooseMechanic");
+    }
+
+
+    DateTime value = DateTime.Now;
+    private void ServiceDateChanged(DateTime dateTime)
+    {
+        model.SelectedDate = dateTime;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        model.SelectedDate = DateTime.Now;
+    }
+}

@@ -1,0 +1,100 @@
+﻿@page "/ChooseMechanic"
+@inject IController controller
+@inject IModel model
+@inject IJSRuntime jsRuntime
+@inject NavigationManager NavigationManager
+
+
+<div class="display">
+
+    <h1 class="text-background" style="margin-left: 15%; margin-right:15%; margin-top: 2%; margin-bottom:1%">Request new service</h1>
+
+    <h2 style="margin-top 4%; margin-bottom: 1%">Choose mechanic for date: @model.SelectedDate.Day.@model.SelectedDate.Month.@model.SelectedDate.Year </h2>
+
+    <div style="columns: 1;  justify-content: center;  align-items: center; flex-direction: column ; display: flex ;">
+        @if (@model.AvailableMechanics != null)
+        {
+            @foreach (ExtendedEmployeeDto mechanicDto in model.AvailableMechanics)
+            {
+                @if (model.SelectedMechanic == mechanicDto)
+                {
+                    <button class="btn4" @onclick="() => SelectMechanic(mechanicDto)" style="margin-bottom: 1%">@mechanicDto.name @mechanicDto.surname @mechanicDto.phoneNumber </button>
+                }
+                else
+                {
+                    <button class="btn3" @onclick="() => SelectMechanic(mechanicDto)" style="margin-bottom: 1%">@mechanicDto.name @mechanicDto.surname @mechanicDto.phoneNumber </button>
+                }
+
+            }
+        }
+    </div>
+
+    <div style="columns: 1;  justify-content: center;  align-items: center; flex-direction: column ; display: flex ;">
+
+        @if (model.SelectedMechanic.id != null)
+        {
+            <RadzenButton Disabled="false" Text="Request Service" class="btn1" Click="RequestNewService" />
+        }
+        else
+        {
+            <RadzenButton Disabled="false" Text="Request Service" class="btn2" />
+        }
+
+        <RadzenButton Disabled="false" Text="Back" class="btn1" Style="font-size: 20px !important; padding: 10px 30px !important" Click="Back" />
+
+
+    </div>
+
+
+</div>
+
+
+
+
+
+
+@code {
+    private bool IsLoading { get; set; }
+
+    private void Back()
+    {
+        NavigationManager.NavigateTo("/ChooseServiceDate");
+    }
+
+    private async Task GetDataFromLocalStorage()
+    {
+        model.IdCardNumber = await jsRuntime.InvokeAsync<string>("sessionStorage.getItem", "idCardNumber");
+        model.SelectedCar.vin = await jsRuntime.InvokeAsync<string>("sessionStorage.getItem", "selectedCar");
+        model.SelectedServiceType = await jsRuntime.InvokeAsync<string>("sessionStorage.getItem", "selectedServiceType");
+        model.SelectedDate = await jsRuntime.InvokeAsync<DateTime>("sessionStorage.getItem", "selectedDate");
+    }
+
+    private async void RequestNewService()
+    {
+        await controller.RequestServiceAsync();
+        NavigationManager.NavigateTo("/CarInfo");
+    }
+
+    private void SelectMechanic(ExtendedEmployeeDto mechanicDto)
+    {
+        model.SelectedMechanic = mechanicDto;
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await GetDataFromLocalStorage();
+            await controller.SearchMechanicsAsync();
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        IsLoading = true;
+        model.SelectedCar = new ExtendedCarDto();
+        model.SelectedMechanic = new ExtendedEmployeeDto();
+    }
+}

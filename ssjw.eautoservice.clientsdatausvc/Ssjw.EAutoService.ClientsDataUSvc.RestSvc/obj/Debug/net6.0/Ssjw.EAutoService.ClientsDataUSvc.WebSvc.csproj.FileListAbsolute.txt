@@ -1,0 +1,234 @@
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cs
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\StartupData.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.exe
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.deps.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.runtimeconfig.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.build.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\scopedcss\bundle\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.styles.css
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CopyComplete
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.genruntimeconfig.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.json
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\StartupData.json
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.exe
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.deps.json
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.runtimeconfig.json
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.AssemblyReference.cache
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfoInputs.cache
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfo.cs
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CoreCompileInputs.cache
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.build.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\scopedcss\bundle\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.styles.css
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CopyComplete
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.genruntimeconfig.cache
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTModel.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTModel.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.json
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\StartupData.json
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.exe
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.deps.json
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.runtimeconfig.json
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTModel.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTModel.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cs
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.build.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\scopedcss\bundle\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.styles.css
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CopyComplete
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.genruntimeconfig.cache
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTModel.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTModel.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.Development.json
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.json
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\StartupData.json
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.exe
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.deps.json
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.runtimeconfig.json
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestModel.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestModel.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.AssemblyReference.cache
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfoInputs.cache
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfo.cs
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CoreCompileInputs.cache
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cs
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cache
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.build.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.pack.json
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.build.json
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.development.json
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\scopedcss\bundle\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.styles.css
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CopyComplete
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.genruntimeconfig.cache
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.Development.json
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.json
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\StartupData.json
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.exe
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.deps.json
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.runtimeconfig.json
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestModel.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestModel.pdb
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.AssemblyReference.cache
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.GeneratedMSBuildEditorConfig.editorconfig
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfoInputs.cache
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfo.cs
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CoreCompileInputs.cache
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cs
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cache
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.Microsoft.AspNetCore.StaticWebAssets.props
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.build.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.pack.json
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.build.json
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.development.json
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\scopedcss\bundle\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.styles.css
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CopyComplete
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.genruntimeconfig.cache
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\appsettings.json
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\StartupData.json
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.exe
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.deps.json
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.runtimeconfig.json
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cs
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.build.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ssjw.EAutoService.ClientsDataUSvc.WebSvc.props
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\scopedcss\bundle\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.styles.css
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.csproj.CopyComplete
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.pdb
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.genruntimeconfig.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.WebSvc.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.WebSvc\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.pdb

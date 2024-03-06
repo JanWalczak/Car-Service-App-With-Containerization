@@ -1,0 +1,161 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ssjw.EAutoService.MechanicAppUSvc.RestClient/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.CarPartsDataUSvc.RestClient": "1.0.0",
+          "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel": "1.0.0",
+          "Ssjw.EAutoService.CarsDataUSvc.RestClient": "1.0.0",
+          "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel": "1.0.0",
+          "Ssjw.EAutoService.ClientsDataUSvc.RESTClient": "1.0.0",
+          "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel": "1.0.0",
+          "Ssjw.EAutoService.EmployeesDataUSvc.RestClient": "1.0.0",
+          "Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel": "1.0.0",
+          "Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel": "1.0.0",
+          "Ssjw.EAutoService.ServicesDataUSvc.RestClient": "1.0.0",
+          "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.MechanicAppUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.CarPartsDataUSvc.RestClient/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.CarPartsDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.CarsDataUSvc.RestClient/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.CarsDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ClientsDataUSvc.RESTClient/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.ClientsDataUSvc.RESTClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.EmployeesDataUSvc.RestClient/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.EmployeesDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ServicesDataUSvc.RestClient/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.ServicesDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ssjw.EAutoService.MechanicAppUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.CarPartsDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.CarsDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.ClientsDataUSvc.RESTClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.EmployeesDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.MechanicAppUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.ServicesDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cd:ClientData xmlns:cd="http://tempuri.org/XMLClientDataSchema.xsd" modified="2020-12-01T12:00:00.000">
+	
+	<cd:Client name="test1" surname="test1" phoneNumber="test1" idCardNumber="test1">
+		<cd:vinNumbers>
+			<cd:vinNumber number="1234567890"/>
+			<cd:vinNumber number="0987654321"/>
+			<cd:vinNumber number="7293846102"/>
+		</cd:vinNumbers>
+	</cd:Client>
+	<cd:Client name="test2" surname="test2" phoneNumber="test2" idCardNumber="test2">
+		<cd:vinNumbers>
+			<cd:vinNumber number="1234567890"/>
+			<cd:vinNumber number="0987654321"/>
+			<cd:vinNumber number="7293846102"/>
+		</cd:vinNumbers>
+	</cd:Client>
+	<cd:Client name="test3" surname="test3" phoneNumber="test3" idCardNumber="test3">
+		<cd:vinNumbers>
+			<cd:vinNumber number="1234567890"/>
+			<cd:vinNumber number="0987654321"/>
+			<cd:vinNumber number="7293846102"/>
+		</cd:vinNumbers>
+	</cd:Client>
+
+</cd:ClientData>

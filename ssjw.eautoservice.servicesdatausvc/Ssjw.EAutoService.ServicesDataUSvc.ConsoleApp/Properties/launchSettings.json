@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Ssjw.EAutoService.ServicesDataUSvc.ConsoleApp": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:49270;http://localhost:49273"
+    }
+  }
+}

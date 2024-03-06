@@ -1,0 +1,321 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Ssjw.EAutoService.CarPartsDataUSvc.RestClient/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.CarPartsDataUSvc.RestClient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.CarPartsDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.CarsDataUSvc.RestClient/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.CarsDataUSvc.RestClient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.CarsDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ClientAppUSvc.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Ssjw.EAutoService.CarPartsDataUSvc.RestClient": "1.0.0",
+          "Ssjw.EAutoService.CarsDataUSvc.RestClient": "1.0.0",
+          "Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel": "1.0.0",
+          "Ssjw.EAutoService.ClientsDataUSvc.RestClient": "1.0.0",
+          "Ssjw.EAutoService.EmployeesDataUSvc.RestClient": "1.0.0",
+          "Ssjw.EAutoService.ServicesDataUSvc.RestClient": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.ClientAppUSvc.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.ClientAppUSvc.Model.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ClientsDataUSvc.RestClient/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.EmployeesDataUSvc.RestClient/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.EmployeesDataUSvc.RestClient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.EmployeesDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ServicesDataUSvc.RestClient/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.ServicesDataUSvc.RestClient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.ServicesDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ssjw.EAutoService.CarPartsDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "path": "../RestConnection/Ssjw.EAutoService.CarPartsDataUSvc.RestClient/Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj",
+      "msbuildProject": "../RestConnection/Ssjw.EAutoService.CarPartsDataUSvc.RestClient/Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj"
+    },
+    "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "path": "../../ssjw.eautoservice.clientapplication/Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel/Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj",
+      "msbuildProject": "../../ssjw.eautoservice.clientapplication/Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel/Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj"
+    },
+    "Ssjw.EAutoService.CarsDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "path": "../RestConnection/Ssjw.EAutoService.CarsDataUSvc.RestClient/Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj",
+      "msbuildProject": "../RestConnection/Ssjw.EAutoService.CarsDataUSvc.RestClient/Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj"
+    },
+    "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "path": "../RestConnection/Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel/Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj",
+      "msbuildProject": "../RestConnection/Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel/Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj"
+    },
+    "Ssjw.EAutoService.ClientAppUSvc.Model/1.0.0": {
+      "type": "project",
+      "path": "../Ssjw.EAutoService.ClientAppUSvc.Model/Ssjw.EAutoService.ClientAppUSvc.Model.csproj",
+      "msbuildProject": "../Ssjw.EAutoService.ClientAppUSvc.Model/Ssjw.EAutoService.ClientAppUSvc.Model.csproj"
+    },
+    "Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "path": "../Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel/Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel.csproj",
+      "msbuildProject": "../Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel/Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel.csproj"
+    },
+    "Ssjw.EAutoService.ClientsDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "path": "../RestConnection/Ssjw.EAutoService.ClientsDataUSvc.RestClient/Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj",
+      "msbuildProject": "../RestConnection/Ssjw.EAutoService.ClientsDataUSvc.RestClient/Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj"
+    },
+    "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "path": "../RestConnection/Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel/Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj",
+      "msbuildProject": "../RestConnection/Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel/Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj"
+    },
+    "Ssjw.EAutoService.EmployeesDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "path": "../RestConnection/Ssjw.EAutoService.EmployeesDataUSvc.RestClient/Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj",
+      "msbuildProject": "../RestConnection/Ssjw.EAutoService.EmployeesDataUSvc.RestClient/Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj"
+    },
+    "Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "path": "../RestConnection/Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel/Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj",
+      "msbuildProject": "../RestConnection/Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel/Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj"
+    },
+    "Ssjw.EAutoService.ServicesDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "path": "../RestConnection/Ssjw.EAutoService.ServicesDataUSvc.RestClient/Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj",
+      "msbuildProject": "../RestConnection/Ssjw.EAutoService.ServicesDataUSvc.RestClient/Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj"
+    },
+    "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "path": "../RestConnection/Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel/Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj",
+      "msbuildProject": "../RestConnection/Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel/Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel >= 1.0.0",
+      "Ssjw.EAutoService.CarsDataUSvc.RestClient >= 1.0.0",
+      "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel >= 1.0.0",
+      "Ssjw.EAutoService.ClientAppUSvc.Model >= 1.0.0",
+      "Ssjw.EAutoService.ClientsDataUSvc.RestClient >= 1.0.0",
+      "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel >= 1.0.0",
+      "Ssjw.EAutoService.EmployeesDataUSvc.RestClient >= 1.0.0",
+      "Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel >= 1.0.0",
+      "Ssjw.EAutoService.ServicesDataUSvc.RestClient >= 1.0.0",
+      "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Patryk\\.nuget\\packages\\": {},
+    "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Logic\\Ssjw.EAutoService.ClientAppUSvc.Logic.csproj",
+      "projectName": "Ssjw.EAutoService.ClientAppUSvc.Logic",
+      "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Logic\\Ssjw.EAutoService.ClientAppUSvc.Logic.csproj",
+      "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+      "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Logic\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj": {
+              "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj"
+            },
+            "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj": {
+              "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj"
+            },
+            "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj": {
+              "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj"
+            },
+            "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj": {
+              "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj"
+            },
+            "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj": {
+              "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj"
+            },
+            "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj": {
+              "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj"
+            },
+            "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj": {
+              "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj"
+            },
+            "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj": {
+              "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj"
+            },
+            "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj": {
+              "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj"
+            },
+            "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Model\\Ssjw.EAutoService.ClientAppUSvc.Model.csproj": {
+              "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Model\\Ssjw.EAutoService.ClientAppUSvc.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

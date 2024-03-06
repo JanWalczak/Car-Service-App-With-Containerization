@@ -1,0 +1,36 @@
+﻿@page "/CarParts"
+@inject IController controller
+@inject IModel model
+@inject IJSRuntime jsRuntime
+@inject NavigationManager NavigationManager
+
+
+<div class="display" style="margin-top: 20%">
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 15%; margin-right: 15%; font-size: 50px">Choose car part type:</h2>
+
+
+    <RadzenButton Disabled="false" Text="BodyParts" class="btn2" Style="font-size: 20px !important; padding: 10px 30px !important" Click="BodyParts" />
+
+    <RadzenButton Disabled="false" Text="MechanicalParts" class="btn2" Style="font-size: 20px !important; padding: 10px 30px !important" Click="MechanicalParts" />
+
+    <RadzenButton Disabled="false" Text="Liquids" class="btn1" Style="font-size: 20px !important; padding: 10px 30px !important" Click="Liquids" />
+</div>
+
+
+@code {
+
+    private void BodyParts()
+    {
+        NavigationManager.NavigateTo("/BodyParts");
+    }
+
+    private void MechanicalParts()
+    {
+        NavigationManager.NavigateTo("/MechanicalParts");
+    }
+
+    private void Liquids()
+    {
+        NavigationManager.NavigateTo("/Liquids");
+    }
+}

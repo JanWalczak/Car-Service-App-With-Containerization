@@ -1,0 +1,98 @@
+﻿@page "/ChooseServiceType"
+@inject IController controller
+@inject IModel model
+@inject IJSRuntime jsRuntime
+@inject NavigationManager NavigationManager
+
+<head>
+    <style>
+
+        .rz-dropdown-item {
+            background-color: darkblue;
+            color: floralwhite !important;
+        }
+
+            .rz-dropdown-item:hover {
+                background-color: #2504ba !important;
+            }
+
+        .rz-state-highlight {
+            background-color: #2504ba !important;
+        }
+
+    </style>
+</head>
+
+
+<div class="display">
+    <div>
+        <h1 class="text-background" style="margin-left: 15%; margin-right:15%; margin-top: 2%; margin-bottom:1%"> Request new service</h1>
+
+        <h2>Choose service's type</h2>
+
+        <div class="rz-p-sm-12 rz-text-align-center">
+            <RadzenDropDown @bind-Value=@value Data=@serviceTypes Style="width: 100%; max-width: 300px;height: 10%; background-color: darkblue; color: floralwhite; border-radius: 10px; font-size: 20px; padding-top: 15px " Change="() => ServiceTypeChanged(value)">
+
+            </RadzenDropDown>
+        </div>
+
+        <div style="columns: 1;  justify-content: center;  align-items: center; flex-direction: column ; display: flex ;">
+
+            @if (!string.IsNullOrEmpty(model.SelectedServiceType))
+            {
+                <RadzenButton Disabled="false" Text="Next" class="btn1" Click="Next" />
+            }
+            else
+            {
+                <RadzenButton Disabled="false" Text="Next" class="btn2" />
+            }
+
+            <RadzenButton Disabled="false" Text="Back" class="btn1" Style="font-size: 20px !important; padding: 10px 30px !important" Click="Back" />
+
+
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    private bool IsLoading { get; set; }
+
+
+    private async Task SaveDataToLocalStorage(string data)
+    {
+        await jsRuntime.InvokeVoidAsync("sessionStorage.setItem", "selectedServiceType", data);
+    }
+
+
+    private async Task SaveData()
+    {
+        await SaveDataToLocalStorage(model.SelectedServiceType);
+    }
+
+
+    private async void Next()
+    {
+        await SaveData();
+        NavigationManager.NavigateTo("/ChooseServiceDate");
+    }
+
+    private void Back()
+    {
+        NavigationManager.NavigateTo("/CarInfo");
+    }
+
+    string value = "Select service type";
+    List<string> serviceTypes = new List<string> { "Repair", "Inspection" };
+
+    private void ServiceTypeChanged(string value)
+    {
+        model.SelectedServiceType = value;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        model.SelectedServiceType = null;
+    }
+}

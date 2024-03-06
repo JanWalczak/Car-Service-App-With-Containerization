@@ -1,0 +1,48 @@
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.deps.json
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj.AssemblyReference.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.GeneratedMSBuildEditorConfig.editorconfig
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.AssemblyInfoInputs.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.AssemblyInfo.cs
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj.CoreCompileInputs.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\refint\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\ref\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.deps.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\refint\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\ref\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.deps.json
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.pdb
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\refint\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.pdb
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\ref\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.deps.json
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\bin\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.pdb
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj.AssemblyReference.cache
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.AssemblyInfoInputs.cache
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.AssemblyInfo.cs
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj.CoreCompileInputs.cache
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\refint\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.pdb
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\obj\Debug\net6.0\ref\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll

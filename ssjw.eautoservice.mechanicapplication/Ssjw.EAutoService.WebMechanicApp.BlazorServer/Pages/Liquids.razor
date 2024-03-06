@@ -1,0 +1,118 @@
+﻿@page "/liquids"
+@inject IController controller
+@inject IModel model
+
+<div class="display">
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 20%; margin-right: 20%; font-size: 30px">Liquids</h2>
+</div>
+
+<div class="column2 left" style="align-items: center; justify-content: center; align-content: center; margin-top: 15%">
+    <div class="display" style="align-items: center; justify-content: center; align-content: center; margin-top: 15%">
+
+        @if (IsLoading)
+        {
+
+            <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center; margin-left: 47.5%">
+                <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+            </div>
+        }
+        else
+        {
+            @if (model.LiquidList.Count != 0)
+            {
+                @foreach (ExtendedLiquidDto liquidPartDto in model.LiquidList)
+                {
+                    <div class="display2">
+                        <button class="btn4" @onclick="() => SelectLiquid(liquidPartDto)">
+                            Id: @liquidPartDto.id, Category: @liquidPartDto.category, Price: @liquidPartDto.price,
+                            Density: @liquidPartDto.density, If contains Pb: @liquidPartDto.containsPb
+                        </button>
+                    </div>
+                }
+            }
+        }
+
+    </div>
+</div>
+
+<div class="column2 right" style="align-items: center; justify-content: center; align-content: center; margin-top: 15%; margin-right:7%">
+
+    <div class="display" style="align-items: center; justify-content: center; align-content: center; ">
+
+        <div class="display2">
+            <h4><b>Enter searched density:</b></h4>
+            <RadzenNumeric ShowUpDown="false" class="text-iput" TValue="int" @bind-Value="@model.Density" style="width: 200px; font-size: 20px; margin-top: 5px" />
+        </div>
+
+        <div class="display2">
+            @if (model.Density != 0)
+            {
+                <RadzenButton Disabled="false" class="btn5" Text="Search by density" Click="@controller.FindLiquidByDensityAsync" />
+            }
+            @if (model.Density == 0)
+            {
+                <RadzenButton Disabled="true" class="btn5" Text="Search by density" />
+            }
+        </div>
+
+
+        <div class="display2" style="margin-top: 40px">
+            <h4><b>Enter searched category:</b></h4>
+            <input name="category" class="text-iput" @bind="@model.Category" style="width: 200px; font-size: 20px; margin-top: 5px" />
+        </div>
+
+        <div class="display2">
+            @if (model.Category != null)
+            {
+                <RadzenButton Disabled="false" class="btn5" Text="Search by category" Click="@controller.FindLiquidByCategoryAsync" />
+            }
+            @if (model.Category == null)
+            {
+                <RadzenButton Disabled="true" class="btn5" Text="Search by category" />
+            }
+        </div>
+
+        <div class="display2" style="margin-top: 40px">
+            <RadzenButton Disabled="false" class="btn5" Text="Reload Liquids" Click="@controller.LoadAllLiquidsAsync" />
+        </div>
+
+        <div class="display2">
+            @if (model.SelectedLiquid == null)
+            {
+                <RadzenButton Disabled="true" class="btn5" Text="Use Car Part" />
+            }
+            @if (model.SelectedLiquid != null)
+            {
+                <RadzenButton Disabled="false" class="btn5" Text="Use Car Part" Click="@controller.UseCarPartAsync" />
+            }
+        </div>
+
+    </div>
+</div>
+
+
+@code {
+    public async void SelectLiquid(ExtendedLiquidDto liquidPartDto)
+    {
+        model.SelectedLiquid = liquidPartDto;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        model.Category = null;
+        model.Density = 0;
+        IsLoading = true;
+    }
+
+    private bool IsLoading { get; set; }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await controller.LoadAllLiquidsAsync();
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+}

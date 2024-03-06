@@ -1,0 +1,127 @@
+﻿@page "/mechanicalparts"
+@inject IController controller
+@inject IModel model
+
+
+<div class="display">
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 20%; margin-right: 20%; font-size: 30px">Mechanical Parts</h2>
+</div>
+
+<div class="column2 left" style="align-items: center; justify-content: center; align-content: center; margin-top: 15%">
+    <div class="display" style="align-items: center; justify-content: center; align-content: center; margin-top: 15%">
+
+        @if (IsLoading)
+        {
+
+            <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center; margin-left: 47.5%">
+                <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+            </div>
+        }
+        else
+        {
+            @if (model.MechanicalPartList.Count != 0)
+            {
+                @foreach (ExtendedMechanicalPartDto mechanicalPartDto in model.MechanicalPartList)
+                {
+                    <div class="display2">
+                        <button class="btn4" @onclick="() => SelectMechanicalPart(mechanicalPartDto)">
+                            Id: @mechanicalPartDto.id, Category: @mechanicalPartDto.category, Price: @mechanicalPartDto.price,
+                            Size X: @mechanicalPartDto.sizeX, Size Y: @mechanicalPartDto.sizeY, Size Z: @mechanicalPartDto.sizeZ,
+                            Description: @mechanicalPartDto.description
+                        </button>
+                    </div>
+                }
+            }
+        }
+    </div>
+</div>
+
+
+<div class="column2 right" style="align-items: center; justify-content: center; align-content: center; margin-top: 15%; margin-right:7%">
+
+    <div class="display" style="align-items: center; justify-content: center; align-content: center; ">
+
+        <div class="display2">
+            <h4><b>Enter searched dimensions</b></h4>
+        </div>
+        <div class="display2">
+            <h5>
+                X:
+                <RadzenNumeric ShowUpDown="false" class="text-iput" TValue="double" @bind-Value="@model.SizeX" style="width: 50px; font-size: 20px; margin-top: 5px" />
+                Y:
+                <RadzenNumeric ShowUpDown="false" class="text-iput" TValue="double" @bind-Value="@model.SizeY" style="width: 50px; font-size: 20px; margin-top: 5px" />
+                Z:
+                <RadzenNumeric ShowUpDown="false" class="text-iput" TValue="double" @bind-Value="@model.SizeZ" style="width: 50px; font-size: 20px; margin-top: 5px" />
+            </h5>
+        </div>
+
+        <div class="display2">
+            @if (model.SizeX != null && model.SizeY != null && model.SizeZ != null)
+            {
+                <RadzenButton Disabled="false" class="btn5" Text="Search by dimension" Click="@controller.FindMechanicalPartByDimensionsAsync" />
+            }
+            @if (model.SizeX == null && model.SizeY == null && model.SizeZ == null)
+            {
+                <RadzenButton Disabled="true" class="btn5" Text="Search by dimension" />
+            }
+        </div>
+
+        <div class="display2" style="margin-top: 40px">
+            <h4><b>Enter searched category:</b></h4>
+            <input name="category" class="text-iput" @bind="@model.Category" style="width: 200px; font-size: 20px; margin-top: 5px" />
+        </div>
+
+        <div class="display2">
+            @if (model.Category != null)
+            {
+                <RadzenButton Disabled="false" class="btn5" Text="Search by category" Click="@controller.FindMechanicalPartByCategoryAsync" />
+            }
+            @if (model.Category == null)
+            {
+                <RadzenButton Disabled="true" class="btn5" Text="Search by category" />
+            }
+        </div>
+
+        <div class="display2" style="margin-top: 40px">
+            <RadzenButton Disabled="false" class="btn5" Text="Reload Mechanical Parts" Click="@controller.LoadAllMechanicalPartsAsync" />
+        </div>
+        <div class="display2">
+            @if (model.SelectedMechanicalPart == null)
+            {
+                <RadzenButton Disabled="true" class="btn5" Text="Use Car Part" />
+            }
+            @if (model.SelectedMechanicalPart != null)
+            {
+                <RadzenButton Disabled="false" class="btn5" Text="Use Car Part" Click="@controller.UseCarPartAsync" />
+            }
+        </div>
+    </div>
+</div>
+
+
+@code {
+    public async void SelectMechanicalPart(ExtendedMechanicalPartDto mechanicalPartDto)
+    {
+        model.SelectedMechanicalPart = mechanicalPartDto;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        model.SizeX = 0;
+        model.SizeY = 0;
+        model.SizeZ = 0;
+        IsLoading = true;
+    }
+
+    private bool IsLoading { get; set; }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await controller.LoadAllMechanicalPartsAsync();
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+}

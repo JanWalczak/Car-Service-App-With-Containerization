@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ssjw.EAutoService.ClientsDataUSvc.Logic/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.ClientsDataUSvc.Model": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.ClientsDataUSvc.Logic.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ClientsDataUSvc.Model/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.ClientsDataUSvc.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ssjw.EAutoService.ClientsDataUSvc.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.ClientsDataUSvc.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

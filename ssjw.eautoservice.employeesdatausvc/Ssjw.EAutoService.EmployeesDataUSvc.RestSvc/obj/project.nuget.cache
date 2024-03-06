@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4zODTl2t0Za/hUU/9lpQdxo/TSBWF1eblFbNv3I6rjKsesMJ9qK2Ug/XqKeSDthrqnAucmCXdZHIf4tecNZnug==",
+  "success": true,
+  "projectFilePath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.employeesdatausvc\\Ssjw.EAutoService.EmployeesDataUSvc.RestSvc\\Ssjw.EAutoService.EmployeesDataUSvc.RestSvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patryk\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

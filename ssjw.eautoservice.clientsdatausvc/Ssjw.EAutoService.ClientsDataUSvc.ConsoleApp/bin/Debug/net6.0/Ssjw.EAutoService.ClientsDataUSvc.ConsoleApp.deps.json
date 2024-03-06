@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ssjw.EAutoService.ClientsDataUSvc.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.ClientsDataUSvc.RestClient": "1.0.0",
+          "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.ClientsDataUSvc.ConsoleApp.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ClientsDataUSvc.RestClient/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ssjw.EAutoService.ClientsDataUSvc.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.ClientsDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

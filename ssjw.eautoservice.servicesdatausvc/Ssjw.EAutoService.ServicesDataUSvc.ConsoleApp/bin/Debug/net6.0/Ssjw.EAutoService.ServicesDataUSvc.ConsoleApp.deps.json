@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ssjw.EAutoService.ServicesDataUSvc.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.ServicesDataUSvc.Logic": "1.0.0",
+          "Ssjw.EAutoService.ServicesDataUSvc.RestClient": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.ServicesDataUSvc.ConsoleApp.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ServicesDataUSvc.Logic/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.ServicesDataUSvc.Model": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.ServicesDataUSvc.Logic.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ServicesDataUSvc.Model/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.ServicesDataUSvc.Model.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ServicesDataUSvc.RestClient/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.ServicesDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ssjw.EAutoService.ServicesDataUSvc.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.ServicesDataUSvc.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.ServicesDataUSvc.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.ServicesDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

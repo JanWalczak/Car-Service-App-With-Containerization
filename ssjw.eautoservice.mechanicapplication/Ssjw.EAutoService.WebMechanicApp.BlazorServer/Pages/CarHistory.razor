@@ -1,0 +1,81 @@
+﻿@page "/carhistory"
+@inject IController controller
+@inject IModel model
+
+
+<div class="display">
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 20%; margin-right: 20%; font-size: 30px">Car's: @model.SelectedCar.vin history</h2>
+
+    @if (IsLoading)
+    {
+        <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center; margin-left: 47.5%">
+            <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+        </div>
+    }
+
+    else
+    {
+        <div class="column2 left" style=" margin-top: 20%; align-content: start">
+            <h4 class="text-background" style="padding: 15px 25px; width: 90%; font-size: 20px; text-align: center; margin-left: 10%">Repairs:</h4>
+
+            @if (model.RepairsList != null)
+            {
+                @foreach (ExtendedRepairDto repairDto in model.RepairsList)
+                {
+                    <h5 class="row" style="text-align: center; width: 70%; margin-left: 20%">
+                        <h6 class="row">
+                            <a><b>ID: @repairDto.id</b>, Date of service: @repairDto.dateOfService,   Employee id: @repairDto.employeeId,   Vin number: @repairDto.vinNumber,   Price: @repairDto.price</a>
+                        </h6>
+                        <h6 class="display2">
+                            <b>Repaired parts:</b>
+
+                            @foreach (ExtendedRepairedPartDto repairedPartDto in repairDto.repairedParts)
+                            {
+                                <h6 class="row">
+                                    Car part's id: @repairedPartDto.carPart,    Cause of repair: @repairedPartDto.causeOfRepair
+                                </h6>
+                            }
+                        </h6>
+                    </h5>
+                }
+            }
+        </div>
+
+        <div class="column2 right" style="margin-right: 5%; margin-top: 20%; align-content: start">
+
+            <h4 class="text-background" style="padding: 15px 25px; width: 90%; margin-left: 5%; margin-right: 20%; font-size: 20px; text-align: center">Inspections:</h4>
+
+            @if (model.InspectionsList != null)
+            {
+                @foreach (ExtendedInspectionDto inspectionDto in model.InspectionsList)
+                {
+                    <h5 class="row" style="text-align: center; width: 70%; margin-left: 15%">
+                        <h6 class="row">
+                            <a><b>ID: @inspectionDto.id</b>, Date of service: @inspectionDto.dateOfService,   Employee id: @inspectionDto.employeeId,   Vin number: @inspectionDto.vinNumber,   Price: @inspectionDto.price,    Inspection expiration date: @inspectionDto.inspectionExpirationDate,    If tests passed: @inspectionDto.testsPassed,    Comment: @inspectionDto.comment</a>
+                        </h6>
+                    </h5>
+                }
+            }
+        </div>
+    }
+</div>
+
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        IsLoading = true;
+    }
+
+    private bool IsLoading { get; set; }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await controller.LoadCarsHistoryAsync();
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+}

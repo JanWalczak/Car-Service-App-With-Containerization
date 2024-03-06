@@ -1,0 +1,36 @@
+﻿@page "/carparts"
+@inject IController controller
+@inject IModel model
+
+
+<div class="display">
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 20%; margin-right: 20%; font-size: 30px">Car Parts</h2>
+</div>
+
+<div class="display">
+
+    <div class="display2">
+        <a href="/bodyparts">
+            <button name="bodyParts" class="btn1">
+                Body Parts
+            </button>
+        </a>
+    </div>
+
+    <div class="display2">
+        <a href="/mechanicalparts">
+            <button name="mechanicalParts" class="btn1">
+                Mechanical Parts
+            </button>
+        </a>
+    </div>
+
+    <div class="display2">
+        <a href="/liquids">
+            <button name="liquids" class="btn1">
+                Liquids
+            </button>
+        </a>
+    </div>
+
+</div>

@@ -1,0 +1,80 @@
+﻿@page "/finishrepair"
+@inject IController controller
+@inject IModel model
+@inject NavigationManager NavigationManager
+
+
+<h2 class="display" style="align-items: start; justify-content: start; align-content: start; ">
+
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 20%; margin-right: 20%; font-size: 30px">Finish Repair @model.RepairId</h2>
+
+
+    <h2 class="column2 left" style=" margin-top: 15%; align-items: start; justify-content: start; align-content: start; margin-left: 2.5%">
+        <div class="display" style="align-items: center; justify-content: center; align-content: center">
+            <div class="display2">
+                <h4><b>Car Part's Id:</b></h4>
+                <input name="carPartId" class="text-iput" @bind="@model.CarPartId" style="width: 200px; font-size: 20px; margin-top: 5px" />
+            </div>
+
+            <div class="display2" style="margin-top: 40px">
+                <h4><b>Cause of repair:</b></h4>
+                <input name="carPartId" class="text-iput" @bind="@model.CauseOfRepair" style="width: 200px; font-size: 20px; margin-top: 5px" />
+            </div>
+
+            <div class="display2" style="margin-top: 106px">
+                <button name="addRepairedPart" class="btn5" @onclick="controller.AddRepairedPartAsync">
+                    Add repaired part
+                </button>
+            </div>
+        </div>
+    </h2>
+
+
+    <h2 class="column2 right" style=" margin-top: 15%; align-items: start; justify-content: start; align-content: start; margin-right: 5%">
+        <div class="display" style="align-items: center; justify-content: center; align-content: center">
+            <div class="display2">
+                <h4><b>Price:</b></h4>
+                <RadzenNumeric ShowUpDown="false" class="text-iput" TValue="double" @bind-Value="@model.Price" style="width: 200px; font-size: 20px; margin-top: 4px" />
+            </div>
+
+            <div class="display2" style="margin-top: 10px; height: 230px">
+                @if (model.RepairedPartsList.Count != 0)
+                {
+                    @foreach (ExtendedRepairedPartDto repairedPartDto in model.RepairedPartsList)
+                    {
+                        <div class="row">
+                            <div class="display2">
+                                <h5>@repairedPartDto.carPart, @repairedPartDto.causeOfRepair</h5>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+
+            <div class="display2">
+                <button name="finishRepair" class="btn5" @onclick="Finish">
+                    Finish repair
+                </button>
+            </div>
+        </div>
+    </h2>
+</h2>
+
+
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        model.CarPartId = null;
+        model.CauseOfRepair = null;
+        model.Price = 0.0;
+        model.RepairedPartsList.Clear();
+    }
+
+    public async void Finish()
+    {
+        await controller.FinishRepairAsync();
+        await controller.LoadPersonalScheduleAsync();
+        NavigationManager.NavigateTo("/services");
+    }
+}

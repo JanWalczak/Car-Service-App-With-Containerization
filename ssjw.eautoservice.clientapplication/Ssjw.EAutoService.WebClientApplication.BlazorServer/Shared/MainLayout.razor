@@ -1,0 +1,25 @@
+﻿@inherits LayoutComponentBase
+@inject NavigationManager MyNavigationManager
+
+
+<div class="sidebar">
+    @if (!MyNavigationManager.Uri.Substring(MyNavigationManager.BaseUri.Length - 1).Equals("/") && !MyNavigationManager.Uri.Substring(MyNavigationManager.BaseUri.Length - 1).Equals("/SignUp"))
+    {
+        <NavMenu />
+    }
+    else
+    {
+        <EmptyNavbar />
+    }
+
+</div>
+<head>
+    <link rel="stylesheet" type="text/css" href="/css/MyStyleCss.css" />
+</head>
+
+
+<div class="main">
+    <div class="content px-4">
+        @Body
+    </div>
+</div>

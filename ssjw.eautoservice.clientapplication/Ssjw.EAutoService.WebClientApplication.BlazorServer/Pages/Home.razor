@@ -1,0 +1,75 @@
+﻿@page "/Home"
+@inject IController controller
+@inject IModel model
+@inject IJSRuntime jsRuntime
+@inject NavigationManager NavigationManager
+
+
+@if (!IsLoading)
+{
+
+
+    <div class="display">
+
+        <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 15%; margin-right: 15%; font-size: 50px">Thank You for beeing with us!</h2>
+
+        <h5 style="margin: 10px 0px 10px 0px; font-size: 40px"> Name: @model.LoggedClient.name  </h5>
+        <h5 style="margin: 15px 0px 10px 0px; font-size: 40px"> Surrname: @model.LoggedClient.surname  </h5>
+        <h5 style="margin: 15px 0px 10px 0px; font-size: 40px"> Phone number: @model.LoggedClient.phoneNumber  </h5>
+        <h5 style="margin: 15px 0px 0px 0px; font-size: 40px"> Id card number: @model.LoggedClient.idCardNumber  </h5>
+
+        <RadzenButton Disabled="false" Text="Edit your personal data" class="btn1" Style="font-size: 30px !important; padding: 10px 30px !important; margin-top: 20px" Click="EditData" />
+
+    </div>
+
+}
+else
+{
+    <div class="display">
+
+        <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 15%; margin-right: 15%; font-size: 50px">Thank You for beeing with us!</h2>
+
+        <h5 style="margin: 10px 0px 10px 0px; font-size: 40px"> Name:   </h5>
+        <h5 style="margin: 15px 0px 10px 0px; font-size: 40px"> Surrname:   </h5>
+        <h5 style="margin: 15px 0px 10px 0px; font-size: 40px"> Phone number:   </h5>
+        <h5 style="margin: 15px 0px 0px 0px; font-size: 40px"> Id card number:   </h5>
+
+        <RadzenButton Disabled="false" Text="Edit your personal data" class="btn1" Style="font-size: 30px !important; padding: 10px 30px !important; margin-top: 20px !important" Click="EditData" />
+
+    </div>
+}
+
+
+
+@code {
+
+    private bool IsLoading { get; set; }
+
+
+    private void EditData()
+    {
+        NavigationManager.NavigateTo("/EditPersonalData");
+    }
+
+    private async Task GetDataFromLocalStorage()
+    {
+        model.IdCardNumber = await jsRuntime.InvokeAsync<string>("sessionStorage.getItem", "idCardNumber");
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        IsLoading = true;
+        model.LoggedClient = new ExtendedClientDto();
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await GetDataFromLocalStorage();
+            await controller.ShowPersonalDataAsync();
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+}

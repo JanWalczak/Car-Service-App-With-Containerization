@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <UserSecretsId>de4dc677-d374-42fd-965d-15dd9c8f52f2</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <IsPublishable>True</IsPublishable>
+    <EnvironmentName>Development</EnvironmentName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="View\**" />
+    <Content Remove="View\**" />
+    <EmbeddedResource Remove="View\**" />
+    <None Remove="View\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.2" />
+	  <PackageReference Include="Radzen.Blazor" Version="3.18.3" />
+  </ItemGroup>
+
+
+	<ItemGroup>
+    <ProjectReference Include="..\Ssjw.EAutoService.ClientApplication.Controller\Ssjw.EAutoService.ClientApplication.Controller.csproj" />
+    <ProjectReference Include="..\Ssjw.EAutoService.ClientApplication.Model\Ssjw.EAutoService.ClientApplication.Model.csproj" />
+    <ProjectReference Include="..\Ssjw.EAutoService.ClientApplication.Utilities\Ssjw.EAutoService.ClientApplication.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

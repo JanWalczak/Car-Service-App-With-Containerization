@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj" />
+    <ProjectReference Include="..\Ssjw.EAutoService.CarsDataUSvc.RestClient\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj" />
+    <ProjectReference Include="..\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel.csproj" />
+    <ProjectReference Include="..\Ssjw.EAutoService.ClientsDataUSvc.RestClient\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj" />
+    <ProjectReference Include="..\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj" />
+    <ProjectReference Include="..\Ssjw.EAutoService.ServicesDataUSvc.RestClient\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,33 @@
+﻿<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:cd="http://tempuri.org/XMLClientDataSchema.xsd" targetNamespace="http://tempuri.org/XMLClientDataSchema.xsd" elementFormDefault="qualified">
+
+	<xsd:element name="ClientData" type="cd:ClientData" />
+
+	<xsd:complexType name="ClientData">
+		<xsd:sequence>
+			<xsd:element name="Client" type="cd:Client" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+		<xsd:attribute name="modified" type="xsd:dateTime" use="required" />
+	</xsd:complexType>
+
+	<xsd:complexType name="Client">
+		<xsd:sequence>
+			<xsd:element name="vinNumbers" type="cd:vinNumbers"/>
+		</xsd:sequence>
+		<xsd:attribute name="name" type="xsd:string"/>
+		<xsd:attribute name="surname" type="xsd:string"/>
+		<xsd:attribute name="phoneNumber" type="xsd:string"/>
+		<xsd:attribute name="idCardNumber" type="xsd:string"/>
+	</xsd:complexType>
+
+	
+	<xsd:complexType name="vinNumbers">
+		<xsd:sequence>
+			<xsd:element name="vinNumber" type="cd:vinNumber" maxOccurs="unbounded" minOccurs="1"/>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="vinNumber">
+		<xsd:attribute name="number"/> 
+	</xsd:complexType>
+
+</xsd:schema>	

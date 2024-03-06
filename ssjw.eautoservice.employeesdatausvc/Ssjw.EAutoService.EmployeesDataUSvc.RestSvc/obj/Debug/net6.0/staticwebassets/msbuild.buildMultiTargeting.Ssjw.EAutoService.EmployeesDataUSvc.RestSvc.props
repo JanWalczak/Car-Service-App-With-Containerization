@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ssjw.EAutoService.EmployeesDataUSvc.RestSvc.props" />
+</Project>

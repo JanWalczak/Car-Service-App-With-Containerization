@@ -1,0 +1,58 @@
+﻿<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:sdata="http://tempuri.org/XMLServicesDataSchema.xsd" targetNamespace="http://tempuri.org/XMLServicesDataSchema.xsd" elementFormDefault="qualified">
+
+	<xsd:element name="ServicesData" type="sdata:ServicesData" />
+
+	<xsd:complexType name="ServicesData">
+		<xsd:sequence>
+			<xsd:element name="InspectionsData" type="sdata:InspectionsData" minOccurs="1" maxOccurs="1" />
+			<xsd:element name="RepairsData" type="sdata:RepairsData" minOccurs="1" maxOccurs="1" />
+		</xsd:sequence>
+		<xsd:attribute name="modified" type="xsd:dateTime" use="required" />
+	</xsd:complexType>
+
+	<xsd:complexType name="InspectionsData">
+		<xsd:sequence>
+			<xsd:element name="Inspection" type="sdata:Inspection" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="RepairsData">
+		<xsd:sequence>
+			<xsd:element name="Repair" type="sdata:Repair" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="Inspection">
+		<xsd:attribute name="id" type="xsd:string"/>
+		<xsd:attribute name="dateOfService" type="xsd:dateTime"/>
+		<xsd:attribute name="employeeId" type="xsd:string"/>
+		<xsd:attribute name="vinNumber" type="xsd:string"/>
+		<xsd:attribute name="price" type="xsd:decimal"/>
+		<xsd:attribute name="testsPassed" type="xsd:boolean"/>
+		<xsd:attribute name="inspectionExpirationDate" type="xsd:dateTime"/>
+		<xsd:attribute name="comment" type="xsd:string"/>
+	</xsd:complexType>
+
+	<xsd:complexType name="Repair">
+		<xsd:sequence>
+			<xsd:element name="RepairedParts" type="sdata:RepairedParts"/>
+		</xsd:sequence>
+		<xsd:attribute name="id" type="xsd:string"/>
+		<xsd:attribute name="dateOfService" type="xsd:dateTime"/>
+		<xsd:attribute name="employeeId" type="xsd:string"/>
+		<xsd:attribute name="vinNumber" type="xsd:string"/>
+		<xsd:attribute name="price" type="xsd:decimal"/>
+	</xsd:complexType>
+
+	<xsd:complexType name="RepairedParts">
+		<xsd:sequence>
+			<xsd:element name="RepairedPart" type="sdata:RepairedPart" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="RepairedPart">
+		<xsd:attribute name="carPart" type="xsd:string"/>
+		<xsd:attribute name="causeOfRepair" type="xsd:string"/>
+	</xsd:complexType>
+
+</xsd:schema>

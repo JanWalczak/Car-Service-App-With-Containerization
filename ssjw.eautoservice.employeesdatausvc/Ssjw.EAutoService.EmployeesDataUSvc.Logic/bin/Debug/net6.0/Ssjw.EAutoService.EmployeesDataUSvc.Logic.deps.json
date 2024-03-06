@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ssjw.EAutoService.EmployeesDataUSvc.Logic/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.EmployeesDataUSvc.Model": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.EmployeesDataUSvc.Logic.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.EmployeesDataUSvc.Model/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.EmployeesDataUSvc.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ssjw.EAutoService.EmployeesDataUSvc.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.EmployeesDataUSvc.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

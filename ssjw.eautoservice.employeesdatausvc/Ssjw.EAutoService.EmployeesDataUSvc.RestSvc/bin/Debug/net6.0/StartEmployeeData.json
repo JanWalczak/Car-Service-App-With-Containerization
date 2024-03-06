@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "ntest1",
+    "Surname": "sntest1",
+    "PhoneNumber": "phtest1",
+    "JobPosition": "jptest1",
+    "Salary": "saltest1",
+    "Services": [ "i1", "i2", "r1", "r2" ],
+    "Id": "1"
+  },
+  {
+    "Name": "ntest2",
+    "Surname": "sntest2",
+    "PhoneNumber": "phtest2",
+    "JobPosition": "jptest2",
+    "Salary": "saltest2",
+    "Services": [ "i3", "i4", "r3", "r4" ],
+    "Id": "2"
+  },
+  {
+    "Name": "ntest3",
+    "Surname": "sntest3",
+    "PhoneNumber": "phtest3",
+    "JobPosition": "jptest3",
+    "Salary": "saltest3",
+    "Services": [ "i5", "i6", "r5", "r6" ],
+    "Id": "3"
+  }
+]

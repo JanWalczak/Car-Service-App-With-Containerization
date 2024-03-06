@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ssjw.EAutoService.ServicesDataUSvc.Logic\Ssjw.EAutoService.ServicesDataUSvc.Logic.csproj" />
+    <ProjectReference Include="..\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties startuprepairsdata_1json__JsonSchema="https://citation-file-format.github.io/1.2.0/schema.json" /></VisualStudio></ProjectExtensions>
+
+</Project>

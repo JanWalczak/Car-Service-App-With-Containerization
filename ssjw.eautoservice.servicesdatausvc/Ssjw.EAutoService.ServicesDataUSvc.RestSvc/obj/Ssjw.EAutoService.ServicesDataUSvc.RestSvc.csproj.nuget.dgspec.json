@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.RestSvc\\Ssjw.EAutoService.ServicesDataUSvc.RestSvc.csproj": {}
+  },
+  "projects": {
+    "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Logic\\Ssjw.EAutoService.ServicesDataUSvc.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Logic\\Ssjw.EAutoService.ServicesDataUSvc.Logic.csproj",
+        "projectName": "Ssjw.EAutoService.ServicesDataUSvc.Logic",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Logic\\Ssjw.EAutoService.ServicesDataUSvc.Logic.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Model\\Ssjw.EAutoService.ServicesDataUSvc.Model.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Model\\Ssjw.EAutoService.ServicesDataUSvc.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Model\\Ssjw.EAutoService.ServicesDataUSvc.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Model\\Ssjw.EAutoService.ServicesDataUSvc.Model.csproj",
+        "projectName": "Ssjw.EAutoService.ServicesDataUSvc.Model",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Model\\Ssjw.EAutoService.ServicesDataUSvc.Model.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.RestSvc\\Ssjw.EAutoService.ServicesDataUSvc.RestSvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.RestSvc\\Ssjw.EAutoService.ServicesDataUSvc.RestSvc.csproj",
+        "projectName": "Ssjw.EAutoService.ServicesDataUSvc.RestSvc",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.RestSvc\\Ssjw.EAutoService.ServicesDataUSvc.RestSvc.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.RestSvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Logic\\Ssjw.EAutoService.ServicesDataUSvc.Logic.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.Logic\\Ssjw.EAutoService.ServicesDataUSvc.Logic.csproj"
+              },
+              "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel",
+        "projectPath": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\olaol\\.nuget\\packages\\",
+        "outputPath": "C:\\Ola\\AStudia\\UAIM\\ssjw.eautoservice.servicesdatausvc\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

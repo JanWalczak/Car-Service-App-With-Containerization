@@ -1,0 +1,84 @@
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.deps.json
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\refint\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Ola\AStudia\UAIM\Projekt\test\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\ref\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.deps.json
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.AssemblyReference.cache
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfoInputs.cache
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfo.cs
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\refint\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\ref\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.deps.json
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\refint\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\ref\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.deps.json
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.AssemblyReference.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfoInputs.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfo.cs
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.CoreCompileInputs.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\refint\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\ref\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.deps.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\refint\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\ref\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.deps.json
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\refint\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Ola\AStudia\UAIM\Nowy folder\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\ref\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.deps.json
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\bin\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.AssemblyReference.cache
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfoInputs.cache
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.AssemblyInfo.cs
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\refint\Ssjw.EAutoService.MechanicApplication.Utilities.dll
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\Ssjw.EAutoService.MechanicApplication.Utilities.pdb
+C:\Users\olaol\Desktop\ssjw.eautoservice.mechanicapplication\Ssjw.EAutoService.MechanicApplication.Utilities\obj\Debug\net6.0\ref\Ssjw.EAutoService.MechanicApplication.Utilities.dll

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+
+	<DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+	<IsPublishable>True</IsPublishable>
+  </PropertyGroup>
+
+    <ItemGroup>
+		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.2" />
+		<PackageReference Include="Radzen.Blazor" Version="3.18.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+    <ProjectReference Include="..\Ssjw.EAutoService.MechanicApplication.Controller\Ssjw.EAutoService.MechanicApplication.Controller.csproj" />
+    <ProjectReference Include="..\Ssjw.EAutoService.MechanicApplication.Model\Ssjw.EAutoService.MechanicApplication.Model.csproj" />
+  </ItemGroup>
+
+</Project>

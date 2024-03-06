@@ -1,0 +1,124 @@
+﻿@page "/EditPersonalData"
+@inject IController controller
+@inject IModel model
+@inject IJSRuntime jsRuntime
+@inject NavigationManager NavigationManager
+
+
+<div class="box">
+
+    <div class="display">
+
+        <div class="text">
+            <h2 class="text-background">Hello, please enter your Data:</h2>
+        </div>
+
+        <div class="text">
+            <p style="font-size: 30px; margin-top:10px;"> Name</p>
+        </div>
+        <RadzenTextBox Placeholder=@model.ChangedClient.name Change=@(args => Name(args)) class="text-iput" Style="width: 40%; margin-top: 0px" />
+
+        <div class="text">
+            <p style="font-size: 30px; margin-top:10px"> Surname</p>
+        </div>
+        <RadzenTextBox Placeholder=@model.ChangedClient.surname Change=@(args => Surname(args)) class="text-iput" Style="width: 40%; margin-top: 0px" />
+
+        <div class="text">
+            <p style="font-size: 30px; margin-top:10px"> Phone Number</p>
+        </div>
+        <RadzenTextBox Placeholder=@model.ChangedClient.phoneNumber Change=@(args => phoneNumber(args)) class="text-iput" Style="width: 40%; margin-top: 0px" />
+
+        <div class="text">
+            <p style="font-size: 30px; margin-top:10px"> Id Card Number</p>
+        </div>
+        <RadzenTextBox Placeholder=@model.ChangedClient.idCardNumber Change=@(args => idCardNumber(args)) class="text-iput" Style="width: 40%; margin-top: 0px" />
+
+        <div style="margin-left:20%; margin-right:20%">
+            <RadzenButton Disabled="false" IsBusy=@IsLoading Text="Edit Data" class="btn1" Click="ChangeData" />
+
+            <RadzenButton Disabled="false" Text="Back" class="btn1" Style="font-size: 20px " Click="Back" />
+
+        </div>
+
+
+    </div>
+</div>
+
+
+
+
+@code {
+
+    private bool IsLoading { get; set; }
+
+    private void Back()
+    {
+        NavigationManager.NavigateTo("/Home");
+    }
+
+    private void Name(string name)
+    {
+        model.ChangedClient.name = name;
+    }
+
+    private void Surname(string surname)
+    {
+        model.ChangedClient.surname = surname;
+    }
+
+    private void phoneNumber(string phoneNumber)
+    {
+        model.ChangedClient.phoneNumber = phoneNumber;
+    }
+
+    private void idCardNumber(string idCardNumber)
+    {
+        model.ChangedClient.idCardNumber = idCardNumber;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        IsLoading = true;
+        model.LoggedClient = new ExtendedClientDto();
+        model.ChangedClient = new ExtendedClientDto();
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await GetDataFromLocalStorage();
+            await controller.ShowPersonalDataAsync();
+            model.ChangedClient = model.LoggedClient;
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+
+    private async void ChangeData()
+    {
+        IsLoading = true;
+        await controller.ChangePersonalDataAsync();
+        await SaveData();
+        model.LoggedClient = new ExtendedClientDto();
+        await controller.ShowPersonalDataAsync();
+        IsLoading = false;
+        StateHasChanged();
+        NavigationManager.NavigateTo("/Home");
+    }
+
+    private async Task SaveData()
+    {
+        await SaveDataToLocalStorage(model.ChangedClient.idCardNumber);
+    }
+
+    private async Task SaveDataToLocalStorage(string data)
+    {
+        await jsRuntime.InvokeVoidAsync("sessionStorage.setItem", "idCardNumber", data);
+    }
+
+    private async Task GetDataFromLocalStorage()
+    {
+        model.IdCardNumber = await jsRuntime.InvokeAsync<string>("sessionStorage.getItem", "idCardNumber");
+    }
+}

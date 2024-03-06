@@ -1,0 +1,85 @@
+stages:
+    - build
+    - test
+    - docker_push
+    - docker_pull
+    - docker_compose
+    - kubernetes
+
+build:
+    stage: build
+    before_script:
+      - cd Ssjw.EAutoService.ClientsDataUSvc.RestSvc
+    script:
+      - dotnet restore
+      - dotnet build -c Debug
+      - dotnet build -c Release
+    tags:
+      - build
+
+test:
+    stage: test
+    before_script:
+      - cd Ssjw.EAutoService.ClientsDataUSvc.Tests
+    script:
+      - dotnet restore
+      - dotnet build -c Debug
+      - dotnet build -c Release
+      - dotnet test
+    tags:
+      - test
+      
+docker_push:
+    stage: docker_push
+    script:
+      - docker login -u mikolajuaim -p haslouaim
+      - docker rmi -f mikolajuaim/application:ssjw-eautoservice-clientsusv
+      - docker build -f Dockerfile -t mikolajuaim/application:ssjw-eautoservice-clientsusv .
+      - docker push mikolajuaim/application:ssjw-eautoservice-clientsusvc        
+    tags: 
+      - docker
+docker_pull:
+    stage: docker_pull
+    allow_failure: true
+    script:
+      - docker pull mikolajuaim/application:ssjw-eautoservice-webclientapplication
+      - docker pull mikolajuaim/application:ssjw-eautoservice-webmechanicapplication
+      - docker pull mikolajuaim/application:ssjw-eautoservice-servicesdatausvc
+      - docker pull mikolajuaim/application:ssjw-eautoservice-webclientapp
+      - docker pull mikolajuaim/application:ssjw-eautoservice-carpartsusvc
+      - docker pull mikolajuaim/application:ssjw-eautoservice-servicesusvc
+      - docker pull mikolajuaim/application:ssjw-eautoservice-clientsusvc
+      - docker pull mikolajuaim/application:ssjw-eautoservice-employeesusvc
+      - docker pull mikolajuaim/application:ssjw-eautoservice-webmechanicapp
+    tags:
+      - docker
+docker_compose:
+    stage: docker_compose
+    allow_failure: true
+    before_script:
+      - cd DockerCompose  
+    script:
+      - if (docker inspect -f '{{.State.Running}}' webclientapplication 2>$null) { docker stop webclientapplication }
+      - if (docker inspect -f '{{.State.Running}}' webmechanicapplication 2>$null) { docker stop webmechanicapplication }
+      - docker-compose down
+      - docker-compose pull
+      - docker-compose -f docker-compose.yaml up --detach --remove-orphans
+    tags: 
+      - docker_compose
+kubernetes:
+    stage: kubernetes
+    before_script:
+      - cd Kubernetes  
+    script:
+      - docker pull mikolajuaim/application:ssjw-eautoservice-webclientapplication
+      - docker pull mikolajuaim/application:ssjw-eautoservice-webmechanicapplication
+      - docker pull mikolajuaim/application:ssjw-eautoservice-servicesdatausvc
+      - docker pull mikolajuaim/application:ssjw-eautoservice-webclientapp
+      - docker pull mikolajuaim/application:ssjw-eautoservice-carpartsusvc
+      - docker pull mikolajuaim/application:ssjw-eautoservice-servicesusvc
+      - docker pull mikolajuaim/application:ssjw-eautoservice-clientsusvc
+      - docker pull mikolajuaim/application:ssjw-eautoservice-employeesusvc
+      - docker pull mikolajuaim/application:ssjw-eautoservice-webmechanicapp
+      - .\ApplyKubernetes.bat 
+    tags: 
+      - kubernetes 

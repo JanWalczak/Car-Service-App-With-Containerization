@@ -1,0 +1,73 @@
+﻿@page "/carsmap"
+@inject IController controller
+@inject IModel model
+@inject NavigationManager NavigationManager
+
+
+<div class="display">
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 20%; margin-right: 20%; font-size: 30px">Employee @model.EmployeeId cars:</h2>
+
+    @if (IsLoading)
+    {
+
+        <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: center; margin-left: 47.5%">
+            <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+        </div>
+    }
+    else
+    {
+        @if (model.EmployeeId != null)
+        {
+            @foreach (ExtendedCarDto carDto in model.CarsList)
+            {
+                <div class="row">
+                    <div class="display2">
+                        <button class="btn3" @onclick="() => SelectCar(carDto)">Vin @carDto.vin</button>
+                    </div>
+                </div>
+            }
+        }
+    }
+</div>
+
+<div class="display">
+    @if (model.SelectedCar != null)
+    {
+        <RadzenButton Disabled="false" class="btn1" Text="View detail information" Click="ViewDetailInformation" />
+    }
+    @if (model.SelectedCar == null)
+    {
+        <RadzenButton Disabled="true" class="btn1" Text="View detail information" />
+    }
+</div>
+
+
+@code {
+    public async void SelectCar(ExtendedCarDto carDto)
+    {
+        model.SelectedCar = carDto;
+    }
+
+    public async void ViewDetailInformation()
+    {
+        NavigationManager.NavigateTo("/carinfo");
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        model.SelectedCar = null;
+        IsLoading = true;
+    }
+
+    private bool IsLoading { get; set; }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await controller.GetPersonalCarsAsync();
+            IsLoading = false;
+            StateHasChanged();
+        }
+    }
+}

@@ -1,0 +1,99 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:cpdata="http://tempuri.org/CarPartsData.xsd" targetNamespace="http://tempuri.org/CarPartsData.xsd" elementFormDefault="qualified">
+
+	<xsd:element name="CarPartsData" type="cpdata:CarPartsData" />
+
+	<xsd:complexType name="CarPartsData">
+		<xsd:sequence>
+			<xsd:element name="mechanicalParts" type="cpdata:MechanicalParts" minOccurs="1" maxOccurs="1" />
+			<xsd:element name="bodyParts" type="cpdata:BodyParts" minOccurs="1" maxOccurs="1" />
+			<xsd:element name="liquids" type="cpdata:Liquids" minOccurs="1" maxOccurs="1" />
+		</xsd:sequence>
+		<xsd:attribute name="modified" type="xsd:dateTime" use="required" />
+	</xsd:complexType>
+
+	<xsd:complexType name="MechanicalParts">
+		<xsd:sequence>
+			<xsd:element name="mechanicalPart" type="cpdata:MechanicalPart" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="BodyParts">
+		<xsd:sequence>
+			<xsd:element name="bodyPart" type="cpdata:BodyPart" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="Liquids">
+		<xsd:sequence>
+			<xsd:element name="liquid" type="cpdata:Liquid" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="BodyPart">
+		<xsd:sequence>
+			<xsd:element name="otherProperties" type="cpdata:OtherProperties" minOccurs="1" maxOccurs="1" />
+		</xsd:sequence>
+		<xsd:attribute name="bodyType" type="xsd:string"  use="required" />
+		<xsd:attribute name="material" type="xsd:string"  use="required" />
+		<xsd:attribute name="price" type="xsd:decimal"  use="required" />
+		<xsd:attribute name="colour" type="xsd:string"  use="required" />
+		<xsd:attribute name="counter" type="xsd:int"  use="required" />
+		<xsd:attributeGroup ref="cpdata:Id" />
+	</xsd:complexType>
+
+
+
+
+	<xsd:complexType name="MechanicalPart">
+		<xsd:sequence>
+			<xsd:element name="otherProperties" type="cpdata:OtherProperties" minOccurs="1" maxOccurs="1" />
+		</xsd:sequence>
+		<xsd:attribute name="category" type="xsd:string"  use="required" />
+		<xsd:attribute name="price" type="xsd:decimal"  use="required" />
+		<xsd:attribute name="sizeX" type="xsd:double"  use="required" />
+		<xsd:attribute name="sizeY" type="xsd:double"  use="required" />
+		<xsd:attribute name="sizeZ" type="xsd:double"  use="required" />
+		<xsd:attribute name="description" type="xsd:string"  use="required" />
+		<xsd:attribute name="counter" type="xsd:int"  use="required" />
+		<xsd:attributeGroup ref="cpdata:Id" />
+	</xsd:complexType>
+
+
+
+	<xsd:complexType name="Liquid">
+		<xsd:sequence>
+			<xsd:element name="otherProperties" type="cpdata:OtherProperties" minOccurs="1" maxOccurs="1" />
+		</xsd:sequence>
+		<xsd:attribute name="category" type="xsd:string"  use="required" />
+		<xsd:attribute name="density" type="xsd:int"  use="required" />
+		<xsd:attribute name="containsPb" type="xsd:boolean"  use="required" />
+		<xsd:attribute name="price" type="xsd:decimal"  use="required" />
+		<xsd:attribute name="counter" type="xsd:int"  use="required" />
+		<xsd:attributeGroup ref="cpdata:Id" />
+	</xsd:complexType>
+
+	<xsd:complexType name="OtherProperties">
+		<xsd:sequence>
+			<xsd:element name="properties" type="cpdata:Properties" minOccurs="1" maxOccurs="1" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="Properties">
+		<xsd:sequence>
+			<xsd:element name="property" type="cpdata:Property" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:attributeGroup name="Id">
+		<xsd:attribute name="id" type="xsd:ID" use="required" />
+	</xsd:attributeGroup>
+
+
+
+	<xsd:complexType name="Property">
+		<xsd:attribute name="name" type="xsd:string" use="required" />
+		<xsd:attribute name="description" type="xsd:string" use="required" />
+	</xsd:complexType>
+
+
+</xsd:schema>

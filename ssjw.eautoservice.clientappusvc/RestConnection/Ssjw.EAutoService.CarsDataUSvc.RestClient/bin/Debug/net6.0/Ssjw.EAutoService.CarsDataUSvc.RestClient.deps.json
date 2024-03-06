@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ssjw.EAutoService.CarsDataUSvc.RestClient/1.0.0": {
+        "dependencies": {
+          "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel": "1.0.0"
+        },
+        "runtime": {
+          "Ssjw.EAutoService.CarsDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel/1.0.0": {
+        "runtime": {
+          "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ssjw.EAutoService.CarsDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

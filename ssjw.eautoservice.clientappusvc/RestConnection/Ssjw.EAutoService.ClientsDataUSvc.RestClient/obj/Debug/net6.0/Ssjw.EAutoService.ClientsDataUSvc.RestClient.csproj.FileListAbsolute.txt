@@ -1,0 +1,147 @@
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.deps.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj.CopyComplete
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTModel.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTModel.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.deps.json
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTModel.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTModel.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.csproj.CopyComplete
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RESTClient\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.RESTClient.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.AssemblyReference.cache
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfoInputs.cache
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfo.cs
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CoreCompileInputs.cache
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.deps.json
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestModel.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestModel.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CopyComplete
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.deps.json
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestModel.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestModel.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.AssemblyReference.cache
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfoInputs.cache
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfo.cs
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CoreCompileInputs.cache
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CopyComplete
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.deps.json
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CopyComplete
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.deps.json
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.AssemblyReference.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.GeneratedMSBuildEditorConfig.editorconfig
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfoInputs.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfo.cs
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CoreCompileInputs.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CopyComplete
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.pdb
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.deps.json
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.dll
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.pdb
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.AssemblyReference.cache
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfoInputs.cache
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfo.cs
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CoreCompileInputs.cache
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CopyComplete
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.deps.json
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.AssemblyReference.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.GeneratedMSBuildEditorConfig.editorconfig
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfoInputs.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfo.cs
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CoreCompileInputs.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CopyComplete
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.deps.json
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.pdb
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.AssemblyReference.cache
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfoInputs.cache
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.AssemblyInfo.cs
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CoreCompileInputs.cache
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj.CopyComplete
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.RestClient.pdb
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientappusvc\RestConnection\Ssjw.EAutoService.ClientsDataUSvc.RestClient\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.RestClient.dll

@@ -1,0 +1,59 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: webclientapplication
+  labels:
+    app: webclientapplication
+    tier: user-application
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: webclientapplication
+  template:
+    metadata:
+      labels:
+        app: webclientapplication
+        tier: user-application
+    spec:
+      containers:
+      - name: webclientapplication
+        image: mikolajuaim/application:ssjw-eautoservice-webclientapplication
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80
+      - name: webclientapp
+        image: mikolajuaim/application:ssjw-eautoservice-webclientapp
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80
+      imagePullSecrets:
+      - name: docker-secret
+      
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: webclientapplication
+  labels:
+    app: webclientapplication
+    tier: user-application
+spec:
+  selector:
+    app: webclientapplication
+  type: NodePort
+  ports:
+  - port: 80
+    nodePort: 30080
+metadata:
+  name: webclientapplication
+  labels:
+    app: webclientapp
+    tier: user-application
+spec:
+  selector:
+    app: webclientapp
+  type: NodePort
+  ports:
+  - port: 80
+    nodePort: 30081  

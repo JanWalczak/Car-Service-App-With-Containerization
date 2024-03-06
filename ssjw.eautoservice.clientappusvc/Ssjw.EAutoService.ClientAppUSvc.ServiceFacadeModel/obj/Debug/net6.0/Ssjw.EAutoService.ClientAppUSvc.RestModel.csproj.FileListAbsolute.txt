@@ -1,0 +1,12 @@
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\bin\Debug\net6.0\Ssjw.EAutoService.ClientAppUSvc.RestModel.deps.json
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\bin\Debug\net6.0\Ssjw.EAutoService.ClientAppUSvc.RestModel.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\bin\Debug\net6.0\Ssjw.EAutoService.ClientAppUSvc.RestModel.pdb
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\obj\Debug\net6.0\Ssjw.EAutoService.ClientAppUSvc.RestModel.csproj.AssemblyReference.cache
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\obj\Debug\net6.0\Ssjw.EAutoService.ClientAppUSvc.RestModel.GeneratedMSBuildEditorConfig.editorconfig
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\obj\Debug\net6.0\Ssjw.EAutoService.ClientAppUSvc.RestModel.AssemblyInfoInputs.cache
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\obj\Debug\net6.0\Ssjw.EAutoService.ClientAppUSvc.RestModel.AssemblyInfo.cs
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\obj\Debug\net6.0\Ssjw.EAutoService.ClientAppUSvc.RestModel.csproj.CoreCompileInputs.cache
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\obj\Debug\net6.0\Ssjw.EAutoService.ClientAppUSvc.RestModel.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientAppUSvc.RestModel.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\obj\Debug\net6.0\Ssjw.EAutoService.ClientAppUSvc.RestModel.pdb
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientappusvc\Ssjw.EAutoService.ClientAppUSvc.RestModel\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientAppUSvc.RestModel.dll

@@ -1,0 +1,53 @@
+﻿@page "/chooseservice"
+@inject IController controller
+@inject IModel model
+
+
+<div class="display">
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 20%; margin-right: 20%; font-size: 30px">Choose service</h2>
+
+    @if (model.InspectionsList != null)
+    {
+        @foreach (ExtendedInspectionDto inspectionDto in model.InspectionsList)
+        {
+            <div class="row">
+                <div class="display2">
+                    <a href="/finishinspection">
+                        <button class="btn3" @onclick="() => SelectInspection(inspectionDto)">Inspection: @inspectionDto.id</button>
+                    </a>
+                </div>
+            </div>
+        }
+    }
+    @if (model.RepairsList != null)
+    {
+        @foreach (ExtendedRepairDto repairDto in model.RepairsList)
+        {
+            <div class="row">
+                <div class="display2">
+                    <a href="/finishrepair">
+                        <button class="btn3" @onclick="() => SelectRepair(repairDto)">Repair: @repairDto.id</button>
+                    </a>
+                </div>
+            </div>
+        }
+    }
+</div>
+
+
+@code {
+    public async void SelectInspection(ExtendedInspectionDto inspectionDto)
+    {
+        model.SelectedInspection = inspectionDto;
+    }
+
+    public async void SelectRepair(ExtendedRepairDto repairDto)
+    {
+        model.SelectedRepair = repairDto;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await controller.ShowListAsync();
+    }
+}

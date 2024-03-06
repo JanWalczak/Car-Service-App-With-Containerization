@@ -1,0 +1,62 @@
+[
+  {
+    "TestsPassed": true,
+    "InspectionExpirationDate": "2024-01-13T22:14:54.815Z",
+    "Comment": "Everything is fine",
+    "Id": "i1",
+    "DateOfService": "2023-04-13T22:14:54.814Z",
+    "EmployeeId": "1",
+    "VinNumber": "41414154",
+    "Price": 1200.5
+  },
+  {
+    "TestsPassed": false,
+    "InspectionExpirationDate": "2023-02-12T22:14:54.814Z",
+    "Comment": "Worn brakes",
+    "Id": "i2",
+    "DateOfService": "2023-04-13T22:14:54.814Z",
+    "EmployeeId": "3",
+    "VinNumber": "131411414",
+    "Price": 2300.75
+  },
+  {
+    "TestsPassed": false,
+    "InspectionExpirationDate": "2020-12-12T22:14:54.814Z",
+    "Comment": "Lights not working",
+    "Id": "i3",
+    "DateOfService": "2023-04-13T22:14:54.814Z",
+    "EmployeeId": "2",
+    "VinNumber": "11111661",
+    "Price": 4000.1
+  },
+  {
+    "TestsPassed": true,
+    "InspectionExpirationDate": "2025-01-13T22:14:54.815Z",
+    "Comment": "Everything is fine",
+    "Id": "i4",
+    "DateOfService": "2023-04-13T22:14:54.814Z",
+    "EmployeeId": "2",
+    "VinNumber": "41414154",
+    "Price": 1000.5
+  },
+  {
+    "TestsPassed": false,
+    "InspectionExpirationDate": "2023-02-12T22:14:54.814Z",
+    "Comment": "Worn tires",
+    "Id": "i5",
+    "DateOfService": "2023-04-13T22:14:54.814Z",
+    "EmployeeId": "3",
+    "VinNumber": "11111661",
+    "Price": 8900.75
+  },
+  {
+    "TestsPassed": true,
+    "InspectionExpirationDate": "2024-12-12T22:14:54.814Z",
+    "Comment": "Everything is fine",
+    "Id": "i6",
+    "DateOfService": "2023-04-13T22:14:54.814Z",
+    "EmployeeId": "3",
+    "VinNumber": "11111661",
+    "Price": 4000.1
+  }
+]

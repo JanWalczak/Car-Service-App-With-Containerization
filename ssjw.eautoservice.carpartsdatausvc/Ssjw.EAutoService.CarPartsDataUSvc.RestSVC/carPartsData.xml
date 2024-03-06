@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cpdata:CarPartsData xmlns:cpdata="http://tempuri.org/CarPartsData.xsd" modified="2023-05-05T00:00:00+02:00">
+  <cpdata:mechanicalParts>
+    <cpdata:mechanicalPart id="m0" category="Gear" price="40.0" sizeX="12" sizeY="32" sizeZ="34" description="Good grid" counter="0">
+      <cpdata:otherProperties>
+        <cpdata:properties>
+          <cpdata:property name="Type" description="Engine" />
+        </cpdata:properties>
+      </cpdata:otherProperties>
+    </cpdata:mechanicalPart>
+    <cpdata:mechanicalPart id="m1" category="Pole" price="10.0" sizeX="2" sizeY="2" sizeZ="24" description="Long one" counter="15">
+      <cpdata:otherProperties>
+        <cpdata:properties>
+          <cpdata:property name="Type" description="Stearing" />
+        </cpdata:properties>
+      </cpdata:otherProperties>
+    </cpdata:mechanicalPart>
+    <cpdata:mechanicalPart id="m2" category="Plate" price="250.0" sizeX="250" sizeY="10" sizeZ="4" description="Large one" counter="14">
+      <cpdata:otherProperties>
+        <cpdata:properties>
+          <cpdata:property name="Type" description="Under" />
+        </cpdata:properties>
+      </cpdata:otherProperties>
+    </cpdata:mechanicalPart>
+  </cpdata:mechanicalParts>
+  <cpdata:bodyParts>
+    <cpdata:bodyPart id="b0" bodyType="large" colour="Red" material="steel" price="24.99" counter="100">
+      <cpdata:otherProperties>
+        <cpdata:properties>
+          <cpdata:property name="Brand" description="Nissan" />
+        </cpdata:properties>
+      </cpdata:otherProperties>
+    </cpdata:bodyPart>
+    <cpdata:bodyPart id="b1" bodyType="small" colour="Red" material="steel" price="14.99" counter="100">
+      <cpdata:otherProperties>
+        <cpdata:properties>
+          <cpdata:property name="Brand" description="Nissan" />
+        </cpdata:properties>
+      </cpdata:otherProperties>
+    </cpdata:bodyPart>
+    <cpdata:bodyPart id="b2" bodyType="medium" colour="Red" material="carbon" price="149.99" counter="100">
+      <cpdata:otherProperties>
+        <cpdata:properties>
+          <cpdata:property name="Brand" description="Nissan" />
+        </cpdata:properties>
+      </cpdata:otherProperties>
+    </cpdata:bodyPart>
+    <cpdata:bodyPart id="b3" bodyType="small" colour="Pink" material="carbon" price="12" counter="0">
+      <cpdata:otherProperties>
+        <cpdata:properties>
+          <cpdata:property name="Brand" description="Ferrari" />
+        </cpdata:properties>
+      </cpdata:otherProperties>
+    </cpdata:bodyPart>
+  </cpdata:bodyParts>
+  <cpdata:liquids>
+    <cpdata:liquid id="l0" category="Fuel" density="20" containsPb="true" price="440.00" counter="1000">
+      <cpdata:otherProperties>
+        <cpdata:properties>
+          <cpdata:property name="Usage" description="Suvs only" />
+        </cpdata:properties>
+      </cpdata:otherProperties>
+    </cpdata:liquid>
+    <cpdata:liquid id="l1" category="Not-Fuel" density="5" containsPb="true" price="20.00" counter="1000">
+      <cpdata:otherProperties>
+        <cpdata:properties>
+          <cpdata:property name="Usage" description="Cleaning" />
+        </cpdata:properties>
+      </cpdata:otherProperties>
+    </cpdata:liquid>
+    <cpdata:liquid id="l2" category="Fuel" density="15" containsPb="false" price="123.00" counter="10">
+      <cpdata:otherProperties>
+        <cpdata:properties>
+          <cpdata:property name="Usage" description="Racing" />
+        </cpdata:properties>
+      </cpdata:otherProperties>
+    </cpdata:liquid>
+  </cpdata:liquids>
+</cpdata:CarPartsData>

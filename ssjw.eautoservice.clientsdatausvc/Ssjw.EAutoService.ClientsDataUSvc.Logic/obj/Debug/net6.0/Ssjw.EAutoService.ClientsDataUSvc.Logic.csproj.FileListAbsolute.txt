@@ -1,0 +1,135 @@
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.deps.json
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CopyComplete
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Ola\AStudia\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.deps.json
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.AssemblyReference.cache
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfoInputs.cache
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfo.cs
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CoreCompileInputs.cache
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CopyComplete
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+D:\Users\Patryk_\Dokumenty\sem4\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.deps.json
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CopyComplete
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Ola\AStudia\UAIM\asdfgdfg\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.deps.json
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.AssemblyReference.cache
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfoInputs.cache
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfo.cs
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CoreCompileInputs.cache
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CopyComplete
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+H:\Mój dysk\Studia\2023_L\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.deps.json
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.AssemblyReference.cache
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.GeneratedMSBuildEditorConfig.editorconfig
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfoInputs.cache
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfo.cs
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CoreCompileInputs.cache
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CopyComplete
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+H:\_STUDIA\Uaim\pro_cz1\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.deps.json
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.AssemblyReference.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfoInputs.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfo.cs
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CoreCompileInputs.cache
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CopyComplete
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Ola\AStudia\UAIM\Projekt\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.deps.json
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.AssemblyReference.cache
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfoInputs.cache
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfo.cs
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CoreCompileInputs.cache
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CopyComplete
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+C:\Users\JanWa\Desktop\UAIM\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.deps.json
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.AssemblyReference.cache
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfoInputs.cache
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfo.cs
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CoreCompileInputs.cache
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CopyComplete
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+D:\Studia\4SEM\UAIM\Repo\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.deps.json
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\bin\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Model.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.AssemblyReference.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.GeneratedMSBuildEditorConfig.editorconfig
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfoInputs.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.AssemblyInfo.cs
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CoreCompileInputs.cache
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.csproj.CopyComplete
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\refint\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\Ssjw.EAutoService.ClientsDataUSvc.Logic.pdb
+H:\_STUDIA\Uaim\pro_cz2\ssjw.eautoservice.clientsdatausvc\Ssjw.EAutoService.ClientsDataUSvc.Logic\obj\Debug\net6.0\ref\Ssjw.EAutoService.ClientsDataUSvc.Logic.dll

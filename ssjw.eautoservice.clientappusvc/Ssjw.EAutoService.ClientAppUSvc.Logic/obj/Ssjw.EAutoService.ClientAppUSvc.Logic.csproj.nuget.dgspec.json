@@ -1,0 +1,918 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Logic\\Ssjw.EAutoService.ClientAppUSvc.Logic.csproj": {}
+  },
+  "projects": {
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj",
+        "projectName": "Ssjw.EAutoService.CarPartsDataUSvc.RestClient",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj",
+        "projectName": "Ssjw.EAutoService.CarsDataUSvc.RestClient",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj",
+        "projectName": "Ssjw.EAutoService.ClientsDataUSvc.RestClient",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj",
+        "projectName": "Ssjw.EAutoService.EmployeesDataUSvc.RestClient",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj",
+        "projectName": "Ssjw.EAutoService.ServicesDataUSvc.RestClient",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Logic\\Ssjw.EAutoService.ClientAppUSvc.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Logic\\Ssjw.EAutoService.ClientAppUSvc.Logic.csproj",
+        "projectName": "Ssjw.EAutoService.ClientAppUSvc.Logic",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Logic\\Ssjw.EAutoService.ClientAppUSvc.Logic.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientapplication\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarPartsDataUSvc.ServiceFacadeModel.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.CarsDataUSvc.ServiceFacadeModel.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientsDataUSvc.ServiceFacadeModel.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.EmployeesDataUSvc.ServiceFacadeModel.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ServicesDataUSvc.ServiceFacadeModel.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Model\\Ssjw.EAutoService.ClientAppUSvc.Model.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Model\\Ssjw.EAutoService.ClientAppUSvc.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Model\\Ssjw.EAutoService.ClientAppUSvc.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Model\\Ssjw.EAutoService.ClientAppUSvc.Model.csproj",
+        "projectName": "Ssjw.EAutoService.ClientAppUSvc.Model",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Model\\Ssjw.EAutoService.ClientAppUSvc.Model.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient\\Ssjw.EAutoService.CarPartsDataUSvc.RestClient.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.CarsDataUSvc.RestClient\\Ssjw.EAutoService.CarsDataUSvc.RestClient.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ClientsDataUSvc.RestClient\\Ssjw.EAutoService.ClientsDataUSvc.RestClient.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient\\Ssjw.EAutoService.EmployeesDataUSvc.RestClient.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\RestConnection\\Ssjw.EAutoService.ServicesDataUSvc.RestClient\\Ssjw.EAutoService.ServicesDataUSvc.RestClient.csproj"
+              },
+              "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel.csproj": {
+                "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel.csproj",
+        "projectName": "Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel",
+        "projectPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel\\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel.csproj",
+        "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+        "outputPath": "H:\\_STUDIA\\Uaim\\pro_cz2\\ssjw.eautoservice.clientappusvc\\Ssjw.EAutoService.ClientAppUSvc.ServiceFacadeModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "S:\\Programy\\VisualStudio\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

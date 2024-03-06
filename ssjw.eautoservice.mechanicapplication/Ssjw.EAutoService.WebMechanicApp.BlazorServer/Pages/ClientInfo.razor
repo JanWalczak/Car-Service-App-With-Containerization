@@ -1,0 +1,24 @@
+﻿@page "/clientinfo"
+@inject IController controller
+@inject IModel model
+
+<div class="display">
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 20%; margin-right: 20%; font-size: 30px">Client: @model.SelectedClient.name @model.SelectedClient.surname</h2>
+
+    <div class="display2" style="margin-bottom: 5%; margin-top: 5%;">
+        <h3 class="display2">Name: @model.SelectedClient.name</h3>
+        <h3 class="display2">Surname: @model.SelectedClient.surname</h3>
+        <h3 class="display2">Phone Number: @model.SelectedClient.phoneNumber</h3>
+        <h3 class="display2">Id Card Number: @model.SelectedClient.idCardNumber</h3>
+        <div class="display2" style="margin-bottom: 5%; margin-top: 5%;">
+            <h3 class="text-background2" style="width: auto; margin-left: 40%; margin-right: 40%;">Vin Numbers:</h3>
+
+            @foreach (string vin in @model.SelectedClient.vinNumbers)
+            {
+                <h3 class="display2">
+                    @vin
+                </h3>
+            }
+        </div>
+    </div>
+</div>

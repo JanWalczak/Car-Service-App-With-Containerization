@@ -1,0 +1,83 @@
+﻿@page "/"
+@inject IController controller
+@inject IModel model
+@inject IJSRuntime jsRuntime
+@inject NavigationManager NavigationManager
+
+
+<div class="box">
+
+    <div class="container left">
+        <div class="text">
+
+            <h2 class="text-background">Hello, please enter your IdCardNumber:</h2>
+
+        </div>
+
+        <RadzenTextBox Change=@(args => OnChangeInput(args)) class="text-iput" />
+
+        <RadzenButton Disabled="false" IsBusy=@IsLoading Text="Login" class="btn1" Click="Login" />
+
+        <RadzenButton Disabled="false" Text="SignUp" class="btn1" Style="font-size: 20px !important; padding: 10px 30px !important" Click="SignUpMethod" />
+
+
+    </div>
+
+    <div class="container right">
+        <img class="image" src="/20618.jpg" alt="Your Image">
+    </div>
+
+
+</div>
+
+
+@code {
+
+    private bool IsLoading { get; set; }
+
+    private async void Login()
+    {
+        IsLoading = true;
+        await SaveData();
+        model.LoggedClient = new ExtendedClientDto();
+        await controller.ShowPersonalDataAsync();
+        IsLoading = false;
+        StateHasChanged();
+        NavigationManager.NavigateTo("/Home");
+    }
+
+    private void SignUpMethod()
+    {
+        NavigationManager.NavigateTo("/SignUp");
+    }
+
+    private void OnChangeInput(string id)
+    {
+        model.IdCardNumber = id;
+    }
+
+    private async Task SaveData()
+    {
+        await SaveDataToLocalStorage(model.IdCardNumber);
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        model.IdCardNumber = null;
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await SaveData();
+            StateHasChanged();
+        }
+    }
+
+    private async Task SaveDataToLocalStorage(string data)
+    {
+        await jsRuntime.InvokeVoidAsync("sessionStorage.setItem", "idCardNumber", data);
+    }
+
+}

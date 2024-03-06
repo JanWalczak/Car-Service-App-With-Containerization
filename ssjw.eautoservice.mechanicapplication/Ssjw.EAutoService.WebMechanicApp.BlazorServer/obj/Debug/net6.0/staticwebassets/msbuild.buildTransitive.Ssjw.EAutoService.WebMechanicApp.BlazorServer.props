@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ssjw.EAutoService.WebMechanicApp.BlazorServer.props" />
+</Project>

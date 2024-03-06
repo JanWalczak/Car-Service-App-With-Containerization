@@ -1,0 +1,19 @@
+﻿@page "/carinfo"
+@inject IController controller
+@inject IModel model
+
+<div class="display">
+    <h2 class="text-background" style="padding: 30px 50px; width: auto; margin-left: 20%; margin-right: 20%; font-size: 30px">Detail inforamtion about car: @model.SelectedCar.vin</h2>
+
+    <div class="display2" style="margin-bottom: 5%; margin-top: 5%;">
+        <h3 class="display2">Vin number: @model.SelectedCar.vin</h3>
+        <h3 class="display2">Model: @model.SelectedCar.model </h3>
+        <h3 class="display2">Brand: @model.SelectedCar.brand </h3>
+        <h3 class="display2">Production year: @model.SelectedCar.productionYear.Year </h3>
+        <h3 class="display2">Insurance number: @model.SelectedCar.insurenceNumber</h3>
+    </div>
+
+    <a href="/carhistory">
+        <button name="searchButton" class="btn1">View car's history</button>
+    </a>
+</div>
